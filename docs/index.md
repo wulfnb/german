@@ -5,9 +5,10 @@
 **Ihr umfassender Wegweiser für den erfolgreichen Deutschlernprozess**  
 *Von absoluten Anfängern bis zur Sprachmeisterung*
 
-[![Starte mit A1](grundlagen/einfuehrung.md){ .md-button .md-button--primary }](#)
-[![Grammatik lernen](grammatik/index.md){ .md-button }](#)
-[![Übungen machen](uebungen/index.md){ .md-button }](#)
+[Starte mit A1](grundlagen/einfuehrung.md){ .md-button .md-button--primary }
+[Grammatik lernen](grammatik/index.md){ .md-button }
+[Übungen machen](uebungen/index.md){ .md-button }
+
 
 </div>
 
@@ -59,24 +60,24 @@ graph LR
 
 - __🏛️ Grammatik__
 
-    - Artikel & Fälle
-    - Verben & Zeitformen  
-    - Satzbau & Struktur
-    - [Zur Grammatik →](grammatik/index.md)
+- Artikel & Fälle
+- Verben & Zeitformen  
+- Satzbau & Struktur
+- [Zur Grammatik →](grammatik/index.md)
 
 - __💬 Wortschatz__
 
-    - 18 Themenbereiche
-    - Von Basis bis Fachwortschatz
-    - Mit praktischen Beispielen
-    - [Zum Wortschatz →](wortschatz/index.md)
+- 18 Themenbereiche
+- Von Basis bis Fachwortschatz
+- Mit praktischen Beispielen
+- [Zum Wortschatz →](wortschatz/index.md)
 
 - __🗣️ Kommunikation__
 
-    - Alltagsgespräche
-    - Formelle Kommunikation
-    - Präsentationen & Briefe
-    - [Zur Kommunikation →](kommunikation/index.md)
+- Alltagsgespräche
+- Formelle Kommunikation
+- Präsentationen & Briefe
+- [Zur Kommunikation →](kommunikation/index.md)
 
 </div>
 
@@ -84,24 +85,24 @@ graph LR
 
 - __🌍 Kultur__
 
-    - Deutsche Traditionen
-    - Leben in Deutschland
-    - Etikette & Bräuche
-    - [Zur Kultur →](kultur/index.md)
+- Deutsche Traditionen
+- Leben in Deutschland
+- Etikette & Bräuche
+- [Zur Kultur →](kultur/index.md)
 
 - __🏆 Übungen__
 
-    - Grammatik & Wortschatz
-    - Hör- & Leseverstehen
-    - Schreib- & Sprechübungen
-    - [Zu den Übungen →](uebungen/index.md)
+- Grammatik & Wortschatz
+- Hör- & Leseverstehen
+- Schreib- & Sprechübungen
+- [Zu den Übungen →](uebungen/index.md)
 
 - __🎯 Prüfungen__
 
-    - Goethe-Zertifikat
-    - TestDaF & telc
-    - DSH & Tipps
-    - [Zu den Prüfungen →](pruefungen/index.md)
+- Goethe-Zertifikat
+- TestDaF & telc
+- DSH & Tipps
+- [Zu den Prüfungen →](pruefungen/index.md)
 
 </div>
 
@@ -145,11 +146,11 @@ graph LR
 2. **Praktische Anwendung**: [Alltagsgespräche](kommunikation/alltagsgespraeche.md)
 3. **Erste Übungen**: [A1 Grammatikübungen](uebungen/grammatik/a1.md)
 
-## 🌟 Erfolgsgeschichten
+<!-- ## 🌟 Erfolgsgeschichten
 
 > "Dank dieses strukturierten Guides habe ich innerhalb von 6 Monaten das B1-Niveau erreicht und konnte problemlos in Deutschland studieren!" - *Maria, 24*
 
-> "Die kulturellen Tipps waren genauso wertvoll wie die Sprachlektionen. Ich fühle mich jetzt sicher in deutschen Business-Meetings." - *Thomas, 32*
+> "Die kulturellen Tipps waren genauso wertvoll wie die Sprachlektionen. Ich fühle mich jetzt sicher in deutschen Business-Meetings." - *Thomas, 32* -->
 
 ## 📞 Hilfe & Community
 
@@ -163,8 +164,8 @@ graph LR
 
 ### Beginne jetzt deine Deutsch-Lernreise!
 
-[✨ Jetzt mit A1 starten](grundlagen/einfuehrung.md){ .md-button .md-button--primary }
-[📚 Alle Ressourcen ansehen](ressourcen/index.md){ .md-button }
+[✨ Jetzt mit A1 starten](./docs/grundlagen/einfuehrung.md)  
+[📚 Alle Ressourcen ansehen](./docs/ressourcen/index.md)
 
 *Letztes Update: {{ git.page.revision_date }}*
 
