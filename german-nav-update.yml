@@ -1,0 +1,48 @@
+# Additional navigation items for German learning
+
+  - Grammatik Erweiterungen:
+    - Adverbien: grammatik/adverbien/index.md
+    - Partikel: grammatik/partikel/index.md
+    - Konjunktiv II: grammatik/konjunktiv-ii.md
+    - Plusquamperfekt: grammatik/plusquamperfekt.md
+    - Indirekte Rede: grammatik/indirekte-rede.md
+
+  - Wortschatz Erweiterungen:
+    - Gesundheit: wortschatz/gesundheit/index.md
+    - Technologie: wortschatz/technologie/index.md
+    - Reisen: wortschatz/reisen/index.md
+    - Umwelt: wortschatz/umwelt/index.md
+
+  - Geschäftliche Kommunikation:
+    - Überblick: kommunikation/geschaeftliche-kommunikation/index.md
+    - Besprechungen: kommunikation/geschaeftliche-kommunikation/besprechungen.md
+    - Präsentationen: kommunikation/geschaeftliche-kommunikation/praesentationen.md
+    - Verhandlungen: kommunikation/geschaeftliche-kommunikation/verhandlungen.md
+
+  - Kultur Vertiefung:
+    - Deutschsprachige Länder: kultur/deutschsprachige-laender/index.md
+    - Medien & Unterhaltung: kultur/medien-unterhaltung/index.md
+    - Regionale Varianten: kultur/regionale-varianten/index.md
+
+  - C1/C2 Übungen:
+    - C1 Hören: uebungen/hoerverstehen/c1.md
+    - C2 Hören: uebungen/hoerverstehen/c2.md
+    - C1 Lesen: uebungen/leseverstehen/c1.md
+    - C2 Lesen: uebungen/leseverstehen/c2.md
+    - C1 Schreiben: uebungen/schreiben/c1.md
+    - C2 Schreiben: uebungen/schreiben/c2.md
+    - C1 Sprechen: uebungen/sprechen/c1.md
+    - C2 Sprechen: uebungen/sprechen/c2.md
+
+  - Lernstrategien Vertiefung:
+    - Lerntechniken: lernstrategien/lerntechniken/index.md
+    - Motivation: lernstrategien/motivation/index.md
+    - Fehler vermeiden: lernstrategien/fehler-vermeiden/index.md
+    - Immersion: lernstrategien/immersion/index.md
+
+  - Ressourcen Kategorien:
+    - Apps & Tools: ressourcen/apps-tools/index.md
+    - Bücher & Materialien: ressourcen/buecher-materialien/index.md
+    - Online-Kurse: ressourcen/online-kurse/index.md
+    - Medien: ressourcen/medien/index.md
+    - Communities: ressourcen/communities/index.md
