@@ -38,8 +38,8 @@ theme:
 
 plugins:
   - search
-  - mermaid2:  # Add this plugin for Mermaid support
-      version: 10.9.0  # Optional: specify a version
+  - mermaid2:
+      version: 11.12.1
       arguments:
         theme: default
 
