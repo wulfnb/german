@@ -141,5 +141,8 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/wulfnb
   generator: false
-copyright:
-  text: "© 2025 Noufal Babu A S — Learn German [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)"
+copyright: |
+  © 2025 Noufal Babu A S — Learn German 
+  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener">
+    <img src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png" alt="CC BY-NC-ND 4.0" style="height: 1em; vertical-align: text-bottom;">
+  </a>
