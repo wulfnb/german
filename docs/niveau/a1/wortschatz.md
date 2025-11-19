@@ -1,432 +1,240 @@
-# 📚 A1 Wortschatz - Grundwortschatz Deutsch
+# A1 Wortschatz - Grundwortschatz
 
-## Einführung in den A1-Wortschatz
+## Einführung
+Der A1-Wortschatz umfasst etwa 600-800 Wörter, die für grundlegende Alltagskommunikation notwendig sind. Dieser Wortschatz ermöglicht einfache Gespräche über vertraute Themen.
 
-Hier lernst du die wichtigsten deutschen Wörter für den Alltag. Mit etwa 650-700 Wörtern kannst du dich in einfachen Situationen verständigen.
-
-## A1 Wortschatz im Überblick
-
-```mermaid
-mindmap
-  root((A1 Wortschatz))
-    Persönliches
-      Name & Alter
-      Länder & Sprachen
-      Berufe
-    Familie & Menschen
-      Familienmitglieder
-      Körperteile
-      Kleidung
-    Zahlen & Zeit
-      Zahlen 0-100
-      Tage & Monate
-      Uhrzeit
-    Essen & Trinken
-      Lebensmittel
-      Getränke
-      Mahlzeiten
-    Wohnen & Stadt
-      Möbel & Räume
-      Gebäude
-      Verkehr
-    Alltag & Hobbys
-      Tagesablauf
-      Freizeit
-      Farben & Tiere
-```
-
-## 1. Persönliche Daten
-
-### Länder und Nationalitäten
-
-```mermaid
-graph LR
-    A[Länder & Nationalitäten] --> B[Europa]
-    A --> C[Amerika]
-    A --> D[Asien]
-    A --> E[Afrika]
-    
-    B --> B1[Deutschland - deutsch]
-    B --> B2[Österreich - österreichisch]
-    B --> B3[Schweiz - schweizerisch]
-    C --> C1[USA - amerikanisch]
-    D --> D1[China - chinesisch]
-    E --> E1[Ägypten - ägyptisch]
-```
-
-**Wichtige Länder:**
-- **Deutschland** → deutsch
-- **Österreich** → österreichisch  
-- **Schweiz** → schweizerisch
-- **Spanien** → spanisch
-- **Italien** → italienisch
-- **Frankreich** → französisch
-- **Türkei** → türkisch
-
-**Beispiele:**
-- Ich komme aus **Deutschland**. Ich bin **Deutsch**.
-- Sie kommt aus **Spanien**. Sie ist **Spanierin**.
-
-### Berufe
-
-| Beruf | Artikel | Beispiel |
-|-------|---------|----------|
-| **der Lehrer** | maskulin | Mein Vater ist Lehrer. |
-| **die Lehrerin** | feminin | Meine Mutter ist Lehrerin. |
-| **der Arzt** | maskulin | Der Arzt hilft Menschen. |
-| **die Ärztin** | feminin | Die Ärztin ist jung. |
-| **der Student** | maskulin | Ich bin Student. |
-| **die Studentin** | feminin | Maria ist Studentin. |
-
-**Weitere Berufe:**
-- der Ingenieur / die Ingenieurin
-- der Kellner / die Kellnerin
-- der Verkäufer / die Verkäuferin
-- der Fahrer / die Fahrerin
-
-## 2. Familie und Menschen
-
-### Familienmitglieder
+## Themenbereiche A1
 
 ```mermaid
 graph TD
-    A[Großeltern] --> B[Großvater]
-    A --> C[Großmutter]
-    B --> D[Vater]
-    C --> D
-    D --> E[Sohn]
-    D --> F[Tochter]
+    A[A1 Wortschatz] --> B[Persönliches]
+    A --> C[Alltag]
+    A --> D[Umgebung]
+    A --> E[Kommunikation]
     
-    style A fill:#f9f
-    style B fill:#ccf
-    style C fill:#f9f
-    style D fill:#ccf
-    style E fill:#ccf
-    style F fill:#f9f
+    B --> B1[Name, Alter, Herkunft<br/>Familie, Beruf]
+    C --> C1[Essen, Einkaufen<br/>Tagesablauf, Hobbys]
+    D --> D1[Stadt, Verkehr<br/>Wohnen, Läden]
+    E --> E1[Begrüßung, Verabschiedung<br/>Einfache Fragen]
 ```
 
-**Familienwortschatz:**
-- **der Vater** - father
-- **die Mutter** - mother
-- **der Bruder** - brother
-- **die Schwester** - sister
-- **der Sohn** - son
-- **die Tochter** - daughter
-- **der Opa/Großvater** - grandfather
-- **die Oma/Großmutter** - grandmother
+## Persönliche Informationen
 
-### Körperteile
+### Vorstellung
 
-| Körperteil | Artikel | Beispiel |
-|------------|---------|----------|
-| **der Kopf** | maskulin | Mein Kopf tut weh. |
-| **das Auge** | neutral | Ich habe blaue Augen. |
-| **die Nase** | feminin | Deine Nase ist klein. |
-| **der Mund** | maskulin | Der Mund ist zum Sprechen. |
-| **die Hand** | feminin | Ich wasche meine Hände. |
-| **der Fuß** | maskulin | Mein rechter Fuß. |
+| Deutsch | Englisch | Beispielsatz |
+|---------|----------|--------------|
+| der Name | name | Wie ist Ihr Name? |
+| das Alter | age | Wie alt sind Sie? |
+| die Herkunft | origin | Woher kommen Sie? |
+| die Nationalität | nationality | Was ist Ihre Nationalität? |
+| die Adresse | address | Wie ist Ihre Adresse? |
+| die Telefonnummer | phone number | Wie ist Ihre Telefonnummer? |
 
-## 3. Zahlen und Zeit
+### Familie
 
-### Zahlen 0-20
+| Deutsch | Englisch | Plural |
+|---------|----------|--------|
+| die Familie | family | - |
+| die Mutter | mother | die Mütter |
+| der Vater | father | die Väter |
+| der Bruder | brother | die Brüder |
+| die Schwester | sister | die Schwestern |
+| das Kind | child | die Kinder |
 
-```mermaid
-graph LR
-    A[Zahlen 0-20] --> B[0-10]
-    A --> C[11-20]
-    
-    B --> B1[null, eins, zwei, drei...]
-    C --> C1[elf, zwölf, dreizehn...]
-```
+## Zahlen und Zeit
 
-**0-10:** null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn  
-**11-20:** elf, zwölf, dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn, achtzehn, neunzehn, zwanzig
+### Zahlen 1-100
+
+| Zahlen | Deutsch | Aussprache |
+|--------|---------|------------|
+| 1-10 | eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn | [aɪns, t͡svaɪ, draɪ, fiːɐ, fʏnf, zɛks, ˈziːbən, axt, nɔɪn, t͡seːn] |
+| 11-20 | elf, zwölf, dreizehn, vierzehn, fünfzehn... | [ɛlf, t͡svœlf, ˈdraɪt͡seːn, ˈfɪʁt͡seːn, ˈfʏnft͡seːn] |
+| 30, 40, 50... | dreißig, vierzig, fünfzig... | [ˈdraɪsɪç, ˈfɪʁt͡sɪç, ˈfʏnft͡sɪç] |
 
 ### Tage und Monate
 
-**Wochentage:**
-- Montag, Dienstag, Mittwoch
-- Donnerstag, Freitag
-- Samstag/Sonnabend, Sonntag
+| Wochentage | Monate |
+|------------|--------|
+| Montag, Dienstag, Mittwoch | Januar, Februar, März |
+| Donnerstag, Freitag | April, Mai, Juni |
+| Samstag, Sonntag | Juli, August, September |
+| | Oktober, November, Dezember |
 
-**Monate:**
-- Januar, Februar, März, April
-- Mai, Juni, Juli, August
-- September, Oktober, November, Dezember
+## Essen und Trinken
 
-**Jahreszeiten:**
-- der Frühling, der Sommer, der Herbst, der Winter
-
-### Uhrzeit
-
-```mermaid
-graph TD
-    A[Uhrzeit] --> B[Ganze Stunden]
-    A --> C[Mit Minuten]
-    A --> D[Offizielle Zeit]
-    
-    B --> B1[Es ist zwei Uhr]
-    C --> C1[Es ist Viertel nach drei]
-    D --> D1[14:30 - vierzehn Uhr dreißig]
-```
-
-**Beispiele:**
-- 08:00 → **acht Uhr**
-- 14:30 → **halb drei** oder **vierzehn Uhr dreißig**
-- 17:15 → **Viertel nach fünf**
-- 20:45 → **Viertel vor neun**
-
-## 4. Essen und Trinken
-
-### Lebensmittel
-
-| Kategorie | Beispiele |
-|-----------|-----------|
-| **Obst** | der Apfel, die Banane, die Orange, die Erdbeere |
-| **Gemüse** | die Tomate, die Kartoffel, die Karotte, der Salat |
-| **Milchprodukte** | die Milch, der Käse, die Butter, der Joghurt |
-| **Brot & Getreide** | das Brot, der Reis, die Nudeln, das Müsli |
-
-### Getränke
-
-- **das Wasser** - water
-- **der Kaffee** - coffee
-- **der Tee** - tea
-- **die Milch** - milk
-- **der Saft** - juice
-- **das Bier** - beer (in Deutschland ab 16 Jahren)
-
-### Mahlzeiten
-
-- **das Frühstück** - breakfast
-- **das Mittagessen** - lunch
-- **das Abendessen** - dinner
-- **der Snack** - snack
-
-## 5. Wohnen und Stadt
-
-### Räume in der Wohnung
-
-```mermaid
-graph TD
-    A[Wohnung] --> B[Wohnzimmer]
-    A --> C[Schlafzimmer]
-    A --> D[Küche]
-    A --> E[Badezimmer]
-    A --> F[Flur]
-```
-
-**Wichtige Räume:**
-- **das Wohnzimmer** - living room
-- **das Schlafzimmer** - bedroom
-- **die Küche** - kitchen
-- **das Badezimmer** - bathroom
-- **der Flur** - hallway
-
-### Möbel
-
-| Möbel | Artikel | Beispiel |
-|-------|---------|----------|
-| **der Tisch** | maskulin | Der Tisch ist groß. |
-| **der Stuhl** | maskulin | Ich sitze auf dem Stuhl. |
-| **das Bett** | neutral | Mein Bett ist bequem. |
-| **der Schrank** | maskulin | Die Kleider sind im Schrank. |
-| **das Sofa** | neutral | Das Sofa ist neu. |
-
-### Gebäude in der Stadt
-
-- **das Haus** - house
-- **die Wohnung** - apartment
-- **das Geschäft** - shop
-- **die Bank** - bank
-- **die Post** - post office
-- **die Apotheke** - pharmacy
-- **das Restaurant** - restaurant
-- **das Café** - café
-
-## 6. Alltag und Hobbys
-
-### Tagesablauf
+### Grundnahrungsmittel
 
 ```mermaid
 graph LR
-    A[Tagesablauf] --> B[Aufstehen]
-    A --> C[Frühstücken]
-    A --> D[Arbeiten/Lernen]
-    A --> E[Essen]
-    A --> F[Schlafen]
+    A[Lebensmittel] --> B[Getränke]
+    A --> C[Obst & Gemüse]
+    A --> D[Milchprodukte]
+    A --> E[Brot & Backwaren]
+    
+    B --> B1[Wasser, Kaffee, Tee<br/>Saft, Bier, Wein]
+    C --> C1[Apfel, Banane, Brokkoli<br/>Kartoffel, Tomate]
+    D --> D1[Milch, Käse, Joghurt<br/>Butter, Quark]
+    E --> E1[Brot, Brötchen, Kuchen<br/>Kekse, Brezel]
 ```
 
-**Verben für den Tagesablauf:**
-- **aufstehen** - to get up
-- **frühstücken** - to have breakfast
-- **arbeiten** - to work
-- **lernen** - to study/learn
-- **essen** - to eat
-- **schlafen** - to sleep
+### Im Restaurant
 
-### Hobbys und Freizeit
+| Deutsch | Englisch | Beispiel |
+|---------|----------|----------|
+| die Speisekarte | menu | Die Speisekarte, bitte. |
+| bestellen | to order | Ich möchte bestellen. |
+| das Essen | food, meal | Das Essen ist gut. |
+| die Rechnung | bill | Die Rechnung, bitte. |
+| trinken | to drink | Was trinkst du? |
+| essen | to eat | Ich esse gern Pizza. |
 
-- **lesen** - to read
-- **fernsehen** - to watch TV
-- **Musik hören** - to listen to music
-- **Sport machen** - to do sports
-- **spazieren gehen** - to go for a walk
-- **Freunde treffen** - to meet friends
+## Stadt und Verkehr
 
-### Farben
+### Gebäude und Orte
 
-- **weiß** - white
-- **schwarz** - black
-- **rot** - red
-- **blau** - blue
-- **grün** - green
-- **gelb** - yellow
-- **braun** - brown
-- **orange** - orange
-- **lila** - purple
+| Deutsch | Englisch | Beispiel |
+|---------|----------|----------|
+| die Stadt | city | Ich wohne in der Stadt. |
+| der Bahnhof | train station | Wo ist der Bahnhof? |
+| die Haltestelle | bus stop | An der nächsten Haltestelle. |
+| der Supermarkt | supermarket | Ich gehe zum Supermarkt. |
+| die Apotheke | pharmacy | Die Apotheke ist dort. |
+| die Bank | bank | Ich bin bei der Bank. |
 
-## Wortschatz-Übungen
+### Verkehrsmittel
 
-### Übung 1: Länder und Nationalitäten
+| Deutsch | Englisch | Präposition |
+|---------|----------|-------------|
+| das Auto | car | mit dem Auto |
+| der Bus | bus | mit dem Bus |
+| die Bahn | train | mit der Bahn |
+| das Fahrrad | bicycle | mit dem Fahrrad |
+| zu Fuß | on foot | zu Fuß gehen |
 
-**Verbinde die Länder mit den Nationalitäten:**
-1. Deutschland → **deutsch**
-2. Frankreich → ___
-3. Italien → ___
-4. Spanien → ___
-5. Türkei → ___
+## Farben und Beschreibungen
 
-**Lösung:** 2. französisch, 3. italienisch, 4. spanisch, 5. türkisch
+### Grundfarben
 
-### Übung 2: Familienmitglieder
+| Farbe | Deutsch | Beispiel |
+|-------|---------|----------|
+| 🔴 Rot | rot | der rote Apfel |
+| 🔵 Blau | blau | der blaue Himmel |
+| 🟡 Gelb | gelb | die gelbe Sonne |
+| 🟢 Grün | grün | das grüne Gras |
+| ⚫ Schwarz | schwarz | die schwarze Tasche |
+| ⚪ Weiß | weiß | das weiße Papier |
 
-**Wer ist wer?**
-1. Der Bruder meines Vaters ist mein ___ → **Onkel**
-2. Die Schwester meiner Mutter ist meine ___ → ___
-3. Der Sohn meines Bruders ist mein ___ → ___
-4. Die Mutter meines Vaters ist meine ___ → ___
+### Adjektive für Personen
 
-**Lösung:** 2. Tante, 3. Neffe, 4. Großmutter
+| Deutsch | Englisch | Gegenteil |
+|---------|----------|-----------|
+| groß | tall | klein (short) |
+| klein | short | groß (tall) |
+| jung | young | alt (old) |
+| alt | old | jung (young) |
+| schön | beautiful | hässlich (ugly) |
+| nett | nice | unfreundlich (unfriendly) |
 
-### Übung 3: Zahlen schreiben
+## Häufige Verben
 
-**Schreibe die Zahlen aus:**
-1. 17 → **siebzehn**
-2. 23 → ___
-3. 48 → ___
-4. 55 → ___
-5. 99 → ___
+### Alltagsverben
 
-**Lösung:** 2. dreiundzwanzig, 3. achtundvierzig, 4. fünfundfünfzig, 5. neunundneunzig
+| Verb | Englisch | Beispiel |
+|------|----------|----------|
+| sein | to be | Ich bin Student. |
+| haben | to have | Ich habe Hunger. |
+| gehen | to go | Ich gehe nach Hause. |
+| kommen | to come | Kommst du mit? |
+| machen | to do, make | Was machst du? |
+| sagen | to say | Was sagst du? |
 
-### Übung 4: Essen und Trinken
+### Bewegungsverben
 
-**Welche Wörter gehören zusammen?**
-- **Obst:** Apfel, Banane, ___
-- **Gemüse:** Tomate, Kartoffel, ___
-- **Getränke:** Wasser, Kaffee, ___
-- **Möbel:** Tisch, Stuhl, ___
+| Verb | Englisch | Präposition |
+|------|----------|-------------|
+| fahren | to drive, ride | nach Berlin fahren |
+| fliegen | to fly | nach Deutschland fliegen |
+| laufen | to walk, run | im Park laufen |
+| schwimmen | to swim | im See schwimmen |
+| reisen | to travel | nach Österreich reisen |
 
-**Lösungsvorschläge:** 
-Obst: Orange, Erdbeere, Birne  
-Gemüse: Karotte, Zwiebel, Gurke  
-Getränke: Tee, Saft, Milch  
-Möbel: Bett, Schrank, Sofa
+## Nützliche Ausdrücke
 
-### Übung 5: Tagesablauf
+### Begrüßung und Verabschiedung
 
-**Ordne die Tätigkeiten:**
-- aufstehen
-- frühstücken
-- zur Arbeit gehen
-- Mittag essen
-- nach Hause kommen
-- Abend essen
-- fernsehen
-- schlafen
+| Situation | Deutsch | Englisch |
+|-----------|---------|----------|
+| Begrüßung | Guten Tag! | Good day! |
+| | Hallo! | Hello! |
+| | Guten Morgen! | Good morning! |
+| Verabschiedung | Auf Wiedersehen! | Goodbye! |
+| | Tschüss! | Bye! |
+| | Bis später! | See you later! |
 
-### Übung 6: Wortfelder
+### Höflichkeitsformeln
 
-**Finde 5 Wörter zu diesen Themen:**
-**Stadt:** Haus, Geschäft, ___, ___, ___  
-**Familie:** Vater, Mutter, ___, ___, ___  
-**Essen:** Brot, Käse, ___, ___, ___
+| Deutsch | Englisch | Antwort |
+|---------|----------|---------|
+| Danke! | Thank you! | Bitte! (You're welcome) |
+| Entschuldigung! | Excuse me/Sorry! | Kein Problem! |
+| Bitte! | Please/You're welcome | Danke! |
+| Gern geschehen! | You're welcome | - |
 
-## Lernstrategien für Wortschatz
+## Lernstrategien für A1-Wortschatz
 
-### 🎯 Effektive Lernmethoden
+### Effektives Vokabellernen
 
 ```mermaid
-graph TD
-    A[Lernmethoden] --> B[Karteikarten]
-    A --> C[Wortfelder]
-    A --> D[Assoziationen]
-    A --> E[Anwendung]
+flowchart TD
+    A[Vokabellernen] --> B[Karteikarten<br/>Flashcards]
+    A --> C[Assoziationen<br/>Associations]
+    A --> D[Kontext<br/>Context]
+    A --> E[Wiederholung<br/>Repetition]
     
-    B --> B1[Digital/Physisch]
-    C --> C1[Themen gruppieren]
-    D --> D1[Bilder verknüpfen]
-    E --> E1[Sätze bilden]
+    B --> B1[Regelmäßig üben<br/>Täglich 10-15 Minuten]
+    C --> C1[Bilder verwenden<br/>Geschichten erfinden]
+    D --> D1[In Sätzen lernen<br/>Praktisch anwenden]
+    E --> E1[Spaced Repetition<br/>Systematisch wiederholen]
 ```
 
-**Bewährte Strategien:**
-- **📝 Karteikarten** mit Bildern erstellen
-- **🎯 Wortfelder lernen** (alle Familienmitglieder zusammen)
-- **🗣️ Laut aussprechen** für Aussprache
-- **✍️ Sätze bilden** mit neuen Wörtern
-- **🔄 Regelmäßig wiederholen** (täglich 10-15 Minuten)
+### Tägliche Übungen
 
-### 📚 Tägliche Übungsroutine
-- **Morgens:** 5 Minuten Wiederholung
-- **Mittags:** 5 Minuten neue Wörter
-- **Abends:** 5 Minuten Anwendung in Sätzen
+| Übung | Zeit | Methode |
+|-------|------|---------|
+| Vokabelkarten | 10 Min. | 10 neue Wörter lernen |
+| Wiederholung | 5 Min. | Gelernte Wörter wiederholen |
+| Anwendung | 10 Min. | Sätze mit neuen Wörtern bilden |
 
-## Häufige Fehler vermeiden
+## Übungsbeispiele
 
-### ❌ Typische Wortschatz-Fehler
-- **Artikel vergessen**: "Ich habe Auto" → "Ich habe **ein** Auto"
-- **Falsche Pluralbildung**: "zwei Kind" → "zwei **Kinder**"
-- **Wortstellung**: "Ich gehe nach Hause jetzt" → "Ich gehe **jetzt** nach Hause"
+### Übung 1: Wortschatz zuordnen
+Ordnen Sie zu:
+1. der Bruder - (a) sister
+2. die Schwester - (b) brother
+3. das Kind - (c) child
+4. die Familie - (d) family
 
-### ✅ Korrekte Anwendung
-- Immer **Artikel mitlernen**
-- **Pluralformen** mitlernen
-- **Verben** mit Beispielsätzen lernen
-- **Aussprache** üben
+### Übung 2: Sätze vervollständigen
+Vervollständigen Sie die Sätze:
+1. Ich ___ aus Deutschland. (komme)
+2. ___ alt bist du? (Wie)
+3. Das ___ schmeckt gut. (Essen)
 
-## Wortschatz-Erweiterung
-
-### Nützliche Redemittel
-- **Ich verstehe nicht** - I don't understand
-- **Wie sagt man...?** - How do you say...?
-- **Können Sie das wiederholen?** - Can you repeat that?
-- **Was bedeutet...?** - What does... mean?
-
-### Wichtige Fragewörter
-- **Wer?** - Who?
-- **Was?** - What?
-- **Wo?** - Where?
-- **Wann?** - When?
-- **Warum?** - Why?
-- **Wie?** - How?
-
-## Nächste Schritte
-
-- [A1 Grammatik lernen](grammatik.md)
-- [A1 Übungen machen](uebungen.md)
-- [Kommunikation üben](../../kommunikation/alltagsgespraeche.md)
-- [Zu A2 Wortschatz](../../a2/wortschatz.md)
+### Übung 3: Dialog üben
+Erstellen Sie einen kurzen Dialog:
+- Begrüßung
+- Nach Name und Herkunft fragen
+- Verabschiedung
 
 ---
 
-<div align="center">
+## Zusammenfassung
 
-*Wortschatz ist wie ein Werkzeugkasten - je mehr Werkzeuge du hast, desto besser kannst du dich ausdrücken!* 🛠️
+Der A1-Wortschatz konzentriert sich auf essentielle Alltagsthemen. Wichtige Bereiche sind:
+- Persönliche Vorstellung
+- Zahlen, Farben, Familie
+- Essen, Stadt, Verkehr
+- Grundlegende Verben und Adjektive
 
-[💪 Jetzt A1 Übungen machen](uebungen.md){ .md-button .md-button--primary }
-[📚 Zur A1 Grammatik](grammatik.md){ .md-button }
-
-**Viel Erfolg beim Vokabellernen!** 🌟
-
-</div>
+Mit diesem Wortschatz sind Sie bereit für die erweiterten Themen in [A2](../a2/wortschatz.md)!

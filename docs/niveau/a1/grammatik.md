@@ -1,343 +1,209 @@
-# 📚 A1 Grammatik - Komplettübersicht
+# A1 Grammatik - Grundlagen
 
-## Einführung in die deutsche Grammatik
+## Einführung
+Auf A1-Niveau lernen Sie die fundamentalen Grammatikstrukturen des Deutschen. Diese Grundlagen sind essenziell für den weiteren Spracherwerb.
 
-Willkommen zur A1-Grammatik! Hier lernst du die grundlegenden Bausteine der deutschen Sprache, die du für einfache Gespräche und Texte benötigst.
-
-## A1 Grammatik im Überblick
-
-```mermaid
-mindmap
-  root((A1 Grammatik))
-    Artikel & Nomen
-      Bestimmte Artikel
-      Unbestimmte Artikel
-      Pluralformen
-    Verben
-      Präsens
-      Haben & Sein
-      Trennbare Verben
-    Pronomen
-      Personalpronomen
-      Possessivpronomen
-    Fragen & Verneinung
-      W-Fragen
-      Ja/Nein Fragen
-      Nicht & Kein
-    Satzbau
-      Hauptsätze
-      Wortstellung
-      Imperativ
-```
-
-## 1. Artikel (Geschlechterwörter)
-
-### Bestimmte Artikel (der, die, das)
+## Grammatik-Übersicht A1
 
 ```mermaid
 graph TD
-    A[Bestimmte Artikel] --> B[der]
-    A --> C[die]
-    A --> D[das]
+    A[A1 Grammatik] --> B[Wortarten]
+    A --> C[Verben]
+    A --> D[Satzbau]
+    A --> E[Fragen]
     
-    B --> B1[maskulin<br>der Mann]
-    C --> C1[feminin<br>die Frau]
-    C --> C2[plural<br>die Kinder]
-    D --> D1[neutral<br>das Kind]
+    B --> B1[Artikel, Nomen<br/>Pronomen, Adjektive]
+    C --> C1[Präsens, Modalverben<br/>Trennbare Verben]
+    D --> D1[Wortstellung<br/>Verbsposition]
+    E --> E1[W-Fragen, Ja/Nein-Fragen]
 ```
 
-**Regeln und Beispiele:**
+## Artikel und Nomen
 
-| Artikel | Geschlecht | Beispiel | Übersetzung |
-|---------|------------|----------|-------------|
-| **der** | maskulin | **der** Mann | der Mann |
-| **die** | feminin | **die** Frau | die Frau |
-| **die** | Plural | **die** Kinder | die Kinder |
-| **das** | neutral | **das** Kind | das Kind |
+### Bestimmte Artikel
 
-### Unbestimmte Artikel (ein, eine)
+| Fall | Maskulin | Feminin | Neutral | Plural |
+|------|----------|---------|---------|--------|
+| Nominativ | der | die | das | die |
+| Akkusativ | den | die | das | die |
 
-```mermaid
-graph LR
-    A[Unbestimmte Artikel] --> B[ein]
-    A --> C[eine]
-    
-    B --> B1[maskulin/neutral<br>ein Mann, ein Kind]
-    C --> C1[feminin<br>eine Frau]
-```
+### Unbestimmte Artikel
 
-**Verwendung:**
-- **ein** für maskulin/neutral: **ein** Mann, **ein** Kind
-- **eine** für feminin: **eine** Frau, **eine** Tasche
-- **kein** für Verneinung: **kein** Auto, **keine** Zeit
+| Fall | Maskulin | Feminin | Neutral |
+|------|----------|---------|---------|
+| Nominativ | ein | eine | ein |
+| Akkusativ | einen | eine | ein |
 
-## 2. Verben im Präsens (Gegenwart)
+### Nomen-Regeln
+
+| Regel | Beispiel | Besonderheit |
+|-------|----------|--------------|
+| Großschreibung | der Tisch, die Frau | Alle Nomen werden großgeschrieben |
+| Pluralbildung | der Tisch → die Tische | Verschiedene Pluralendungen |
+| Zusammensetzung | die Küche + der Tisch = der Küchentisch | Deutsche Nomen können kombiniert werden |
+
+## Verben im Präsens
 
 ### Regelmäßige Verben
 
-| Pronomen | Endung | Beispiel: lernen | Beispiel: machen |
-|----------|--------|------------------|------------------|
-| ich | -e | ich lern**e** | ich mach**e** |
-| du | -st | du lern**st** | du mach**st** |
-| er/sie/es | -t | er lern**t** | er mach**t** |
-| wir | -en | wir lern**en** | wir mach**en** |
-| ihr | -t | ihr lern**t** | ihr mach**t** |
-| sie/Sie | -en | sie lern**en** | sie mach**en** |
+| Person | Endung | Beispiel: lernen |
+|--------|--------|------------------|
+| ich | -e | ich lerne |
+| du | -st | du lernst |
+| er/sie/es | -t | er/sie/es lernt |
+| wir | -en | wir lernen |
+| ihr | -t | ihr lernt |
+| sie/Sie | -en | sie/Sie lernen |
 
 ### Unregelmäßige Verben
 
-```mermaid
-graph TD
-    A[Wichtige unregelmäßige Verben] --> B[sein]
-    A --> C[haben]
-    A --> D[werden]
-    A --> E[wissen]
-    
-    B --> B1[ich bin, du bist, er ist]
-    C --> C1[ich habe, du hast, er hat]
-    D --> D1[ich werde, du wirst, er wird]
-    E --> E1[ich weiß, du weißt, er weiß]
-```
-
-**Konjugation von sein und haben:**
-
-| Pronomen | sein | haben |
-|----------|------|-------|
-| ich | **bin** | **habe** |
-| du | **bist** | **hast** |
-| er/sie/es | **ist** | **hat** |
-| wir | **sind** | **haben** |
-| ihr | **seid** | **habt** |
-| sie/Sie | **sind** | **haben** |
+| Verb | ich | du | er/sie/es |
+|------|-----|----|-----------|
+| sein | bin | bist | ist |
+| haben | habe | hast | hat |
+| werden | werde | wirst | wird |
+| essen | esse | isst | isst |
 
 ### Trennbare Verben
 
 ```mermaid
-graph LR
-    A[Trennbare Verben] --> B[Präfix abtrennen]
-    A --> C[Verb konjugieren]
+flowchart LR
+    A[Präfix + Verb] --> B{Satzbildung}
+    B --> C[Hauptsatz<br/>Präfix geht ans Ende]
+    B --> D[Fragesatz<br/>Präfix geht ans Ende]
     
-    B --> B1[aufstehen → ich stehe auf]
-    C --> C1[ich stehe um 7 Uhr auf]
+    C --> C1[Ich stehe um 7 Uhr auf.]
+    D --> D1[Wann stehst du auf?]
 ```
 
 **Beispiele:**
-- aufstehen: Ich **stehe** um 7 Uhr **auf**
-- einkaufen: Sie **kauft** Lebensmittel **ein**
-- mitkommen: **Kommst** du **mit**?
-- anrufen: Ich **rufe** dich **an**
+- aufstehen: Ich stehe um 7 Uhr auf.
+- einkaufen: Sie kauft im Supermarkt ein.
+- anrufen: Er ruft seine Mutter an.
 
-## 3. Pronomen (Fürwörter)
+## Pronomen
 
 ### Personalpronomen
 
-| Fall | Deutsch | Englisch |
-|------|---------|----------|
-| 1. Person Singular | **ich** | I |
-| 2. Person Singular | **du** | you (informal) |
-| 3. Person Singular | **er/sie/es** | he/she/it |
-| 1. Person Plural | **wir** | we |
-| 2. Person Plural | **ihr** | you (plural informal) |
-| 3. Person Plural | **sie** | they |
-| Höflichkeitsform | **Sie** | you (formal) |
+| Person | Nominativ | Akkusativ |
+|--------|-----------|-----------|
+| ich | ich | mich |
+| du | du | dich |
+| er/sie/es | er/sie/es | ihn/sie/es |
+| wir | wir | uns |
+| ihr | ihr | euch |
+| sie/Sie | sie/Sie | sie/Sie |
 
-### Possessivpronomen (Besitzwörter)
+### Possessivpronomen
 
-```mermaid
-graph TD
-    A[Possessivpronomen] --> B[mein]
-    A --> C[dein]
-    A --> D[sein/ihr/sein]
-    A --> E[unser]
-    A --> F[euer]
-    A --> G[ihr/Ihr]
-```
+| Person | Maskulin | Feminin | Neutral | Plural |
+|--------|----------|---------|---------|--------|
+| ich | mein | meine | mein | meine |
+| du | dein | deine | dein | deine |
+| er/sie/es | sein/ihr/sein | seine/ihre/sein | sein/ihr/sein | seine/ihre/sein |
 
-**Beispiele:**
-- **mein** Haus, **meine** Familie
-- **dein** Buch, **deine** Tasche
-- **sein** Auto (er), **ihr** Hund (sie), **sein** Spielzeug (es)
+## Satzbau
 
-## 4. Fragen stellen
+### Grundregeln
 
-### W-Fragen
+| Satztyp | Struktur | Beispiel |
+|---------|----------|----------|
+| Aussagesatz | Subjekt - Verb - Objekt | Ich lerne Deutsch. |
+| W-Frage | Fragewort - Verb - Subjekt | Wo wohnst du? |
+| Ja/Nein-Frage | Verb - Subjekt - Objekt | Sprichst du Deutsch? |
+| Imperativ | Verb - (Subjekt) - Objekt | Sprich langsam! |
 
-```mermaid
-graph LR
-    A[W-Fragen] --> B[Wer]
-    A --> C[Was]
-    A --> D[Wo]
-    A --> E[Wann]
-    A --> F[Warum]
-    A --> G[Wie]
-    
-    B --> B1[Person]
-    C --> C1[Sache]
-    D --> D1[Ort]
-    E --> E1[Zeit]
-    F --> F1[Grund]
-    G --> G1[Art/Weise]
-```
-
-**Wichtige W-Fragen:**
-- **Wer**? - Who? → **Wer** ist das?
-- **Was**? - What? → **Was** machst du?
-- **Wo**? - Where? → **Wo** wohnst du?
-- **Wann**? - When? → **Wann** kommst du?
-- **Warum**? - Why? → **Warum** lernst du Deutsch?
-- **Wie**? - How? → **Wie** geht es dir?
-
-### Ja/Nein Fragen
-
-**Bildung:** Verb + Subjekt + ...?
-- Sprichst du Deutsch? → Ja/Nein
-- Hast du Hunger? → Ja/Nein
-- Kommst du aus Berlin? → Ja/Nein
-
-## 5. Verneinung
-
-### "nicht" vs. "kein"
+### Verbposition
 
 ```mermaid
-graph TD
-    A[Verneinung] --> B[nicht]
-    A --> C[kein]
+flowchart TD
+    A[Verbstellung] --> B[Hauptsatz<br/>Verb an 2. Position]
+    A --> C[Fragesatz<br/>Verb an 1. Position]
+    A --> D[Nebensatz<br/>Verb am Ende]
     
-    B --> B1[Verben, Adjektive,<br>bestimmte Nomen]
-    C --> C1[unbestimmte Nomen]
-    
-    B1 --> B2[Ich verstehe nicht<br>Das ist nicht gut]
-    C1 --> C2[Ich habe kein Auto<br>Er trinkt keinen Kaffee]
+    B --> B1[Ich lerne heute Deutsch.]
+    C --> C1[Lernst du heute Deutsch?]
+    D --> D1[Weil ich Deutsch lerne, ...]
 ```
 
-**Regeln:**
-- **nicht** für Verben, Adjektive, bestimmte Nomen
-- **kein** für unbestimmte Nomen (ersetzt ein/eine)
+## Modalverben
 
-**Beispiele:**
-- Ich verstehe **nicht**. (Verb)
-- Das ist **nicht** teuer. (Adjektiv)
-- Ich habe **kein** Auto. (unbestimmter Artikel)
-- Er trinkt **keinen** Kaffee. (Akkusativ)
+### Die wichtigsten Modalverben
 
-## 6. Satzbau (Wortstellung)
+| Verb | Bedeutung | Konjugation (ich/du/er) |
+|------|-----------|--------------------------|
+| können | can, to be able to | ich kann, du kannst, er kann |
+| müssen | must, to have to | ich muss, du musst, er muss |
+| wollen | to want to | ich will, du willst, er will |
+| mögen | to like | ich mag, du magst, er mag |
+| sollen | should, to be supposed to | ich soll, du sollst, er soll |
 
-### Hauptsätze
+### Verwendung
 
-```mermaid
-graph LR
-    A[Hauptsatz-Struktur] --> B[Position 1]
-    A --> C[Position 2]
-    A --> D[Mittelfeld]
-    A --> E[Ende]
-    
-    B --> B1[Subjekt/Anderes Element]
-    C --> C1[Konjugiertes Verb]
-    D --> D1[Restliche Elemente]
-    E --> E1[Trennbare Verben/Nicht]
-```
+| Situation | Beispiel |
+|-----------|----------|
+| Fähigkeit | Ich kann Deutsch sprechen. |
+| Pflicht | Ich muss heute lernen. |
+| Wunsch | Ich will nach Deutschland reisen. |
+| Vorliebe | Ich mag deutsche Musik. |
+| Rat | Du sollst mehr üben. |
 
-**Grundregel:** Verb an zweiter Position!
+## Präpositionen
 
-**Beispiele:**
-- Ich **lerne** heute Deutsch. (Subjekt + Verb)
-- Heute **lerne** ich Deutsch. (Anderes Element + Verb)
-- Deutsch **lerne** ich heute. (Anderes Element + Verb)
+### Wechselpräpositionen
 
-### Imperativ (Befehlsform)
+| Präposition | Bedeutung | Beispiel |
+|-------------|-----------|----------|
+| in | in, into | in der Schule (Dativ) / in die Schule (Akkusativ) |
+| an | at, on, to | an der Tafel (Dativ) / an die Tafel (Akkusativ) |
+| auf | on, onto | auf dem Tisch (Dativ) / auf den Tisch (Akkusativ) |
 
-| Person | Bildung | Beispiel |
-|--------|---------|----------|
-| du | Verb-Stamm + ∅ | **Lern** Deutsch! |
-| ihr | Verb-Stamm + -t | **Lern**t Deutsch! |
-| Sie | Verb-Stamm + -en + Sie | **Lernen** Sie Deutsch! |
+### Dativ-Präpositionen
 
-## 7. Präpositionen mit Dativ
+| Präposition | Bedeutung | Beispiel |
+|-------------|-----------|----------|
+| mit | with | mit dem Bus |
+| nach | after, to | nach der Schule |
+| von | from, of | von meinem Freund |
+| zu | to | zu meiner Familie |
 
-### Wichtige Präpositionen
+## Negation
 
-| Präposition | Beispiel | Übersetzung |
-|-------------|----------|-------------|
-| **aus** | Ich komme **aus** Deutschland. | from |
-| **von** | Das ist **von** meinem Freund. | from |
-| **zu** | Ich gehe **zu** meiner Freundin. | to |
-| **in** | Ich bin **in** der Schule. | in |
-| **an** | Das Bild hängt **an** der Wand. | on |
-| **auf** | Das Buch liegt **auf** dem Tisch. | on |
+### "nicht" vs "kein"
 
-## Grammatik-Übungen
+| Negation | Verwendung | Beispiel |
+|----------|------------|----------|
+| nicht | Verneint Verben, Adjektive, Ortsangaben | Ich verstehe nicht. |
+| kein | Verneint Nomen ohne Artikel | Ich habe keine Zeit. |
+
+## Übungsbeispiele
 
 ### Übung 1: Artikel einsetzen
-Setze den richtigen Artikel ein:
-1. ___ Haus (das)
-2. ___ Frau (die)
-3. ___ Mann (der)
-4. ___ Kinder (die)
-5. ___ Buch (das)
+Setzen Sie den richtigen Artikel ein:
+1. ___ Buch ist interessant. (das)
+2. Ich sehe ___ Mann. (den)
+3. ___ Frau spricht Deutsch. (die)
 
 ### Übung 2: Verben konjugieren
-Konjugiere die Verben:
-1. ich (wohnen) → ich **wohne**
-2. du (sprechen) → du ___
-3. er (arbeiten) → er ___
-4. wir (lernen) → wir ___
-5. ihr (machen) → ihr ___
+Konjugieren Sie die Verben:
+1. Ich (wohnen) ___ in Berlin.
+2. Du (sprechen) ___ gut Deutsch.
+3. Wir (lernen) ___ jeden Tag.
 
-### Übung 3: Fragen bilden
-Bilde Fragen zu diesen Antworten:
-1. "Ich heiße Maria." → **Wie heißt du?**
-2. "Ich komme aus Spanien." → ___
-3. "Ich bin 25 Jahre alt." → ___
-4. "Ich wohne in Berlin." → ___
-
-### Übung 4: Verneinung
-Verneine die Sätze:
-1. Ich habe ein Auto. → Ich habe **kein** Auto.
-2. Er trinkt Kaffee. → ___
-3. Sie versteht Deutsch. → ___
-4. Das ist teuer. → ___
-
-## Häufige A1-Fehler
-
-### ❌ Typische Grammatikfehler
-- "Ich bin 25 Jahre" → **Ich bin 25 Jahre alt.**
-- "Ich habe Auto" → **Ich habe ein Auto.**
-- "Du sprichst Deutsch?" → **Sprichst du Deutsch?**
-- "Ich nicht verstehe" → **Ich verstehe nicht.**
-
-### ✅ Korrekte Verwendung merken
-- Immer Artikel mitlernen
-- Verb immer an 2. Position
-- "nicht" ans Satzende
-- Großschreibung bei Nomen
-
-## Lernstrategien für Grammatik
-
-### Tägliche Übung
-- 📝 **5 Minuten**: Artikel üben
-- 🎯 **10 Minuten**: Verben konjugieren
-- 💬 **5 Minuten**: Sätze bilden
-- 📚 **Wiederholung**: Gelerntes festigen
-
-### Praktische Anwendung
-- Schreibe täglich 3 Sätze mit neuer Grammatik
-- Sprich mit Sprach-Apps
-- Höre deutsche Sätze und analysiere die Struktur
-
-## Nächste Schritte
-
-- [A1 Wortschatz lernen](wortschatz.md)
-- [A1 Übungen machen](../../uebungen/grammatik/a1.md)
-- [Kommunikation üben](../../kommunikation/alltagsgespraeche.md)
-- [Zu A2 Grammatik](../../a2/grammatik.md)
+### Übung 3: Sätze bilden
+Bilden Sie Sätze mit diesen Elementen:
+1. ich / heute / Deutsch / lernen
+2. du / wo / wohnen / ?
+3. wir / Kaffee / trinken / wollen
 
 ---
 
-<div align="center">
+## Zusammenfassung
 
-*Grammatik ist wie ein Werkzeugkasten - je mehr Werkzeuge du hast, desto besser kannst du bauen!* 🛠️
+Die A1-Grammatik bildet das Fundament für Ihren weiteren Deutschlernprozess. Konzentrieren Sie sich auf:
+- Richtige Artikelverwendung
+- Verbkonjugation im Präsens
+- Grundlegende Satzstrukturen
+- Einfache Fragen bilden
 
-[💪 Jetzt A1 Übungen machen](../../uebungen/grammatik/a1.md){ .md-button .md-button--primary }
-[📚 Zum A1 Wortschatz](wortschatz.md){ .md-button }
-
-</div>
+Mit diesen Grundlagen sind Sie bestens vorbereitet für [A2](../a2/grammatik.md)!

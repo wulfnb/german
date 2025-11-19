@@ -1,380 +1,264 @@
-# 💪 A1 Übungen - Praktische Anwendung
+# A1 Übungen - Praxisaufgaben
 
-## Willkommen zu den A1-Übungen!
+## Einführung
+Diese Übungen helfen Ihnen, das A1-Niveau zu festigen und anzuwenden. Regelmäßiges Üben ist der Schlüssel zum Erfolg beim Deutschlernen.
 
-Hier kannst du das Gelernte aus der A1-Grammatik und dem A1-Wortschatz praktisch anwenden. Übung macht den Meister!
-
-## Übungsbereiche im Überblick
-
-```mermaid
-mindmap
-  root((A1 Übungen))
-    Grammatik
-      Artikel & Nomen
-      Verben konjugieren
-      Pronomen & Fragen
-      Verneinung
-    Wortschatz
-      Persönliche Daten
-      Familie & Zahlen
-      Essen & Trinken
-      Zeit & Datum
-    Kommunikation
-      Sich vorstellen
-      Einfache Dialoge
-      Fragen & Antworten
-    Hörverstehen
-      Zahlen & Buchstaben
-      Einfache Sätze
-      Alltagsituationen
-```
-
-## 1. Grammatik-Übungen
-
-### Übung 1: Artikel zuordnen
-
-**Setze den richtigen Artikel (der, die, das) ein:**
+## Übungsbereiche A1
 
 ```mermaid
-graph LR
-    A[Artikel-Übung] --> B[der]
-    A --> C[die]
-    A --> D[das]
+graph TD
+    A[A1 Übungen] --> B[Hörverstehen]
+    A --> C[Leseverstehen]
+    A --> D[Schreiben]
+    A --> E[Sprechen]
+    A --> F[Grammatik]
     
-    B --> B1[maskulin]
-    C --> C1[feminin]
-    D --> D1[neutral]
+    B --> B1[Kurze Dialoge<br/>Einfache Ansagen]
+    C --> C1[Formulare<br/>Kurze Texte]
+    D --> D1[Formulare ausfüllen<br/>Kurze Notizen]
+    E --> E1[Vorstellung<br/>Einfache Fragen]
+    F --> F1[Artikel, Verben<br/>Satzbau]
 ```
 
-1. ___ Tisch → **der** Tisch
-2. ___ Lampe → ___
-3. ___ Buch → ___
-4. ___ Frau → ___
-5. ___ Kind → ___
-6. ___ Haus → ___
-7. ___ Mann → ___
-8. ___ Tür → ___
+## Hörverstehen Übungen
 
-**Lösung:** 2. die, 3. das, 4. die, 5. das, 6. das, 7. der, 8. die
+### Übung 1: Zahlen verstehen
+**Hören Sie und schreiben Sie die Zahlen:**
+1. Telefonnummer: ___ ___ ___ - ___ ___ ___ ___ ___
+2. Alter: ___ Jahre
+3. Preis: ___ Euro ___ Cent
+
+**Lösungshinweise:**
+- Achten Sie auf die Aussprache von 13/30, 14/40, etc.
+- "zwo" wird manchmal statt "zwei" verwendet
+
+### Übung 2: Einfache Dialoge
+**Hören Sie den Dialog und beantworten Sie die Fragen:**
+
+Dialog:
+- Person A: "Guten Tag! Wie heißen Sie?"
+- Person B: "Guten Tag! Ich heiße Maria Schmidt."
+- Person A: "Woher kommen Sie, Frau Schmidt?"
+- Person B: "Ich komme aus Österreich."
+
+**Fragen:**
+1. Wie heißt die Frau? _______
+2. Woher kommt sie? _______
+
+## Leseverstehen Übungen
+
+### Übung 1: Formular verstehen
+
+**Lesen Sie das Formular:**
+
+```
+PERSÖNLICHE DATEN
+Name: Müller
+Vorname: Thomas
+Geburtsdatum: 15.03.1985
+Nationalität: deutsch
+Beruf: Lehrer
+```
+
+**Beantworten Sie die Fragen:**
+1. Wie ist der Familienname? _______
+2. Wann hat Thomas Geburtstag? _______
+3. Was ist sein Beruf? _______
+
+### Übung 2: Kurze Anzeige
+
+**Lesen Sie die Anzeige:**
+
+"Zimmer zu vermieten
+In der Innenstadt
+Preis: 400 € warm
+Tel: 030 1234567"
+
+**Fragen:**
+1. Was wird angeboten? _______
+2. Wo ist das Zimmer? _______
+3. Wie viel kostet es? _______
+
+## Schreibübungen
+
+### Übung 1: Formular ausfüllen
+
+**Füllen Sie dieses Formular mit Ihren Daten aus:**
+
+```
+ANMELDEFORMULAR SPRACHKURS
+
+Persönliche Daten:
+Name: _______________
+Vorname: _______________
+Geburtsdatum: _______________
+Nationalität: _______________
+Adresse: _______________
+Telefon: _______________
+Email: _______________
+
+Sprachkenntnisse:
+Deutsch: ○ Anfänger ○ Fortgeschritten
+```
+
+### Übung 2: Kurze Notiz schreiben
+
+**Schreiben Sie eine kurze Notiz an einen Freund:**
+
+- Sie können heute nicht zum Deutschkurs kommen
+- Sie sind krank
+- Sie kommen nächste Woche wieder
+
+```
+Lieber/Liebe _______________,
+
+ich kann heute nicht zum Kurs kommen, 
+weil ich krank bin.
+
+Bis nächste Woche!
+
+Viele Grüße
+_______________
+```
+
+## Sprechübungen
+
+### Übung 1: Sich vorstellen
+
+**Üben Sie diese Vorstellung:**
+
+"Guten Tag! Ich heiße [Ihr Name]. Ich komme aus [Ihr Land]. Ich wohne in [Ihre Stadt]. Ich bin [Ihr Beruf]. Ich lerne Deutsch."
+
+**Variationen:**
+- Sprechen Sie langsam und deutlich
+- Üben Sie mit verschiedenen persönlichen Informationen
+
+### Übung 2: Einfache Fragen stellen
+
+**Üben Sie diese Fragen:**
+1. "Wie heißen Sie?"
+2. "Woher kommen Sie?"
+3. "Wo wohnen Sie?"
+4. "Was machen Sie beruflich?"
+5. "Sprechen Sie Deutsch?"
+
+## Grammatikübungen
+
+### Übung 1: Artikel einsetzen
+
+**Setzen Sie den richtigen Artikel ein:**
+1. ___ Buch ist neu. (das)
+2. Ich sehe ___ Mann. (den)
+3. ___ Frau spricht Englisch. (die)
+4. Hast du ___ Zeit? (die)
+5. Das ist ___ Auto. (ein)
 
 ### Übung 2: Verben konjugieren
 
-**Konjugiere die Verben im Präsens:**
-
-| Pronomen | wohnen | lernen | sprechen | sein | haben |
-|----------|--------|--------|----------|------|-------|
-| ich | **wohne** | **lerne** | **spreche** | **bin** | **habe** |
-| du | ___ | ___ | ___ | ___ | ___ |
-| er/sie/es | ___ | ___ | ___ | ___ | ___ |
-| wir | ___ | ___ | ___ | ___ | ___ |
-| ihr | ___ | ___ | ___ | ___ | ___ |
-| sie/Sie | ___ | ___ | ___ | ___ | ___ |
-
-**Lösung:** 
-du: wohnst, lernst, sprichst, bist, hast  
-er/sie/es: wohnt, lernt, spricht, ist, hat  
-wir: wohnen, lernen, sprechen, sind, haben  
-ihr: wohnt, lernt, sprecht, seid, habt  
-sie/Sie: wohnen, lernen, sprechen, sind, haben
+**Konjugieren Sie die Verben:**
+1. Ich (heißen) _______ Müller.
+2. Du (kommen) _______ aus Berlin.
+3. Er (wohnen) _______ in München.
+4. Wir (lernen) _______ Deutsch.
+5. Ihr (sprechen) _______ gut Englisch.
 
 ### Übung 3: Personalpronomen
 
-```mermaid
-graph TD
-    A[Pronomen-Übung] --> B[Subjekt einsetzen]
-    A --> C[Objekt einsetzen]
-    
-    B --> B1[Ich, du, er, sie...]
-    C --> C1[mich, dich, ihn...]
-```
+**Ersetzen Sie die Nomen durch Pronomen:**
+1. Der Mann → _______
+2. Die Frau → _______
+3. Das Kind → _______
+4. Die Bücher → _______
 
-**Ersetze die unterstrichenen Wörter mit Pronomen:**
+## Wortschatzübungen
 
-1. **Maria** ist 25 Jahre alt. → **Sie** ist 25 Jahre alt.
-2. **Der Mann** kommt aus Berlin. → ___
-3. **Das Buch** ist interessant. → ___
-4. **Mein Bruder und ich** lernen Deutsch. → ___
-5. **Die Kinder** spielen im Garten. → ___
+### Übung 1: Wortfelder
 
-**Lösung:** 2. Er, 3. Es, 4. Wir, 5. Sie
+**Ordnen Sie die Wörter den Kategorien zu:**
 
-### Übung 4: Fragen bilden
+Wörter: Apfel, Auto, Bruder, Buch, Deutsch, Hund, Kaffee, Lehrer, Milch, Mutter, Schule, Tee, Vater, Wasser
 
-**Bilde Fragen zu diesen Antworten:**
+| Familie | Getränke | Berufe | Lebensmittel | Anderes |
+|---------|----------|--------|--------------|---------|
+| | | | | |
 
-1. "Ich heiße Thomas." → **Wie heißt du?**
-2. "Ich komme aus Österreich." → ___
-3. "Ich bin 30 Jahre alt." → ___
-4. "Ich wohne in München." → ___
-5. "Ich bin Lehrer." → ___
-6. "Ja, ich spreche Deutsch." → ___
+### Übung 2: Gegenteile finden
 
-**Lösung:** 
-2. Woher kommst du?  
-3. Wie alt bist du?  
-4. Wo wohnst du?  
-5. Was bist du von Beruf?  
-6. Sprichst du Deutsch?
+**Finden Sie die Gegenteile:**
+1. groß - _______
+2. jung - _______
+3. gut - _______
+4. teuer - _______
+5. langsam - _______
 
-## 2. Wortschatz-Übungen
+## Interaktive Übungen
 
-### Übung 5: Zahlen schreiben
+### Rollenspiel 1: Im Café
 
-**Schreibe die Zahlen aus:**
+**Spielen Sie diesen Dialog:**
+- Kunde: "Guten Tag!"
+- Kellner: "Guten Tag! Was möchten Sie?"
+- Kunde: "Ich möchte einen Kaffee, bitte."
+- Kellner: "Sonst noch etwas?"
+- Kunde: "Nein, danke. Das ist alles."
+- Kellner: "Das macht 3,50 Euro."
+- Kunde: "Bitte schön."
+- Kellner: "Danke! Einen schönen Tag noch!"
 
-```mermaid
-graph LR
-    A[Zahlen-Übung] --> B[0-12]
-    A --> C[13-19]
-    A --> D[20-100]
-    
-    B --> B1[eins, zwei, drei...]
-    C --> C1[dreizehn, vierzehn...]
-    D --> D1[zwanzig, einundzwanzig...]
-```
+### Rollenspiel 2: Nach dem Weg fragen
 
-1. 7 → **sieben**
-2. 12 → ___
-3. 15 → ___
-4. 20 → ___
-5. 25 → ___
-6. 33 → ___
-7. 50 → ___
-8. 100 → ___
+**Spielen Sie diesen Dialog:**
+- Person A: "Entschuldigung! Wo ist der Bahnhof?"
+- Person B: "Geradeaus, dann links."
+- Person A: "Danke schön!"
+- Person B: "Bitte schön!"
 
-**Lösung:** 2. zwölf, 3. fünfzehn, 4. zwanzig, 5. fünfundzwanzig, 6. dreiunddreißig, 7. fünfzig, 8. hundert
+## Lernfortschritt tracken
 
-### Übung 6: Familienmitglieder
-
-**Vervollständige den Familienstammbaum:**
-
-```mermaid
-graph TD
-    A[Großvater] --> B[Vater]
-    A --> C[Tante]
-    B --> D[Sohn]
-    B --> E[Tochter]
-    C --> F[Cousin]
-    C --> G[Cousine]
-    
-    style A fill:#f9f
-    style B fill:#ccf
-    style C fill:#f9f
-    style D fill:#ccf
-    style E fill:#f9f
-    style F fill:#ccf
-    style G fill:#f9f
-```
-
-**Beziehungen benennen:**
-1. Der Bruder meines Vaters ist mein ___ → **Onkel**
-2. Die Schwester meiner Mutter ist meine ___ → ___
-3. Der Sohn meiner Tante ist mein ___ → ___
-4. Die Tochter meines Onkels ist meine ___ → ___
-5. Die Mutter meines Vaters ist meine ___ → ___
-
-**Lösung:** 2. Tante, 3. Cousin, 4. Cousine, 5. Großmutter
-
-### Übung 7: Essen und Trinken
-
-**Welche Wörter passen zusammen?**
-
-| Getränke | Lebensmittel | Geschirr |
-|----------|--------------|----------|
-| **Kaffee** | Brot | Tasse |
-| ___ | Käse | ___ |
-| ___ | Wurst | ___ |
-| ___ | Apfel | ___ |
-
-**Lösungsvorschläge:** 
-Getränke: Wasser, Tee, Milch, Saft  
-Lebensmittel: Butter, Ei, Fisch, Gemüse  
-Geschirr: Glas, Teller, Messer, Gabel
-
-## 3. Kommunikations-Übungen
-
-### Übung 8: Sich vorstellen
-
-**Vervollständige den Dialog:**
-
-```
-Person A: Guten Tag! Wie heißen Sie?
-Person B: Guten Tag! Ich heiße Anna Müller. ______?
-Person A: Ich heiße Thomas Schmidt. ______?
-Person B: Ich komme aus Österreich. ______?
-Person A: Aus Deutschland. Ich wohne in Berlin. ______?
-Person B: Ich bin 28 Jahre alt. Und Sie?
-Person A: Ich bin 32. ______?
-Person B: Ich bin Lehrerin. Und Sie?
-Person A: Ich bin Ingenieur. ______?
-Person B: Ja, ein bisschen. Der Kurs ist gut!
-```
-
-**Lösung:** 
-Und Sie?  
-Woher kommen Sie?  
-Und Sie?  
-Wie alt sind Sie?  
-Was sind Sie von Beruf?  
-Sprechen Sie Deutsch?
-
-### Übung 9: Im Restaurant
-
-**Ordne den Dialog richtig:**
-
-- "Nein, danke. Das war alles."
-- "Guten Tag! Was möchten Sie?"
-- "Zahlen, bitte."
-- "Ich möchte ein Stück Kuchen und einen Kaffee, bitte."
-- "Das macht 8,50 Euro."
-- "Danke! Auf Wiedersehen!"
-
-**Richtige Reihenfolge:** 2, 4, 1, 3, 5, 6
-
-### Übung 10: Telefongespräch
-
-```mermaid
-graph TD
-    A[Telefon-Übung] --> B[Begrüßung]
-    A --> C[Namen nennen]
-    A --> D[Gespräch führen]
-    A --> E[Verabschiedung]
-    
-    B --> B1[Hallo, guten Tag]
-    C --> C1[Hier ist...]
-    D --> D1[Fragen stellen]
-    E --> E1[Auf Wiederhören]
-```
-
-**Ergänze das Telefongespräch:**
-```
-A: Hallo, hier ist Maria.
-B: Hallo Maria! ______ Tim.
-A: Hi Tim! ______?
-B: Gut, danke! ______?
-A: Auch gut! ______ heute Abend?
-B: Ja, gerne! ______?
-A: Um 19 Uhr?
-B: Perfekt! ______!
-A: Bis später! ______!
-```
-
-**Lösung:** 
-Hier ist  
-Wie geht's?  
-Und dir?  
-Hast du Zeit  
-Wann  
-Tschüss  
-Auf Wiederhören
-
-## 4. Hörverstehen-Übungen
-
-### Übung 11: Zahlen verstehen
-
-**Höre zu und schreibe die Zahlen:**
-(Angenommen du hörst diese Zahlen)
-1. **dreiundzwanzig** → 23
-2. siebzehn → ___
-3. neunundvierzig → ___
-4. einundachtzig → ___
-5. hundert → ___
-
-**Lösung:** 2. 17, 3. 49, 4. 81, 5. 100
-
-### Übung 12: Einfache Sätze verstehen
-
-**Welcher Satz passt zur Situation?**
-
-Situation: Im Café
-- [ ] "Ich habe Hunger."
-- [ ] "Ich möchte einen Kaffee."
-- [ ] "Das Wetter ist schön."
-- [ ] "Wo ist die Toilette?"
-
-**Lösung:** "Ich möchte einen Kaffee."
-
-## 5. Gemischte Übungen
-
-### Übung 13: Fehler korrigieren
-
-**Korrigiere die Fehler in diesen Sätzen:**
-
-1. Ich habe auto. → **Ich habe ein Auto.**
-2. Du sprechen Deutsch? → ___
-3. Ich bin 25 jahre. → ___
-4. Er kommen aus Berlin. → ___
-5. Wir haben kein zeit. → ___
-
-**Lösung:** 
-2. Sprichst du Deutsch?  
-3. Ich bin 25 Jahre alt.  
-4. Er kommt aus Berlin.  
-5. Wir haben keine Zeit.
-
-### Übung 14: Lückentext
-
-**Setze die fehlenden Wörter ein:**
-(heiße, komme, wohne, bin, lerne, spreche)
-
-Hallo! Ich ___ Maria. Ich ___ aus Spanien. Ich ___ in Madrid. Ich ___ Studentin. Ich ___ Deutsch. Ich ___ ein bisschen Englisch.
-
-**Lösung:** heiße, komme, wohne, bin, lerne, spreche
-
-## Erfolgskontrolle
-
-### Selbsttest: Was kannst du jetzt?
+### Selbstbewertung
 
 ```mermaid
 graph LR
-    A[Selbsttest] --> B[✓ Gut]
-    A --> C[△ Verbesserung]
-    A --> D[✗ Noch nicht]
+    A[Selbsteinschätzung] --> B[Kann ich mich vorstellen?]
+    A --> C[Kann ich einfache Fragen verstehen?]
+    A --> D[Kann ich Formulare ausfüllen?]
+    A --> E[Kann ich kurze Sätze schreiben?]
     
-    B --> B1[Artikel richtig]
-    C --> C1[Verben konjugieren]
-    D --> D1[Komplexe Sätze]
+    B --> B1[○ Ja ○ Teilweise ○ Nein]
+    C --> C1[○ Ja ○ Teilweise ○ Nein]
+    D --> D1[○ Ja ○ Teilweise ○ Nein]
+    E --> E1[○ Ja ○ Teilweise ○ Nein]
 ```
 
-**Bewerte dich selbst:**
-- [ ] Ich kann mich vorstellen
-- [ ] Ich kenne die deutschen Artikel
-- [ ] Ich kann Verben im Präsens konjugieren
-- [ ] Ich verstehe einfache Fragen
-- [ ] Ich kann Zahlen bis 100
-- [ ] Ich kenne die Familienmitglieder
-- [ ] Ich kann einfache Dialoge führen
+### Übungsplan für eine Woche
 
-## Tipps für erfolgreiches Üben
+| Tag | Übung | Dauer |
+|-----|-------|-------|
+| Montag | Hörverstehen + Wortschatz | 30 Min. |
+| Dienstag | Grammatik + Lesen | 30 Min. |
+| Mittwoch | Sprechen + Schreiben | 30 Min. |
+| Donnerstag | Wiederholung + Vokabeln | 30 Min. |
+| Freitag | Gemischte Übungen | 30 Min. |
+| Wochenende | Pause oder freiwillige Übungen | - |
 
-### 🎯 Effektive Übungsstrategien
-- **Täglich 15-20 Minuten** üben
-- **Laut sprechen** für bessere Aussprache
-- **Fehler machen erlaubt** - daraus lernen
-- **Wiederholen** bis es sitzt
-- **Praktisch anwenden** im Alltag
+## Zusätzliche Ressourcen
 
-### 📚 Weiterführende Übungen
-- [Online-Übungen vom Goethe-Institut](https://www.goethe.de/)
-- [Deutsche Welle - Nicos Weg](https://www.dw.com/)
-- [Übungs-Apps](../ressourcen/apps.md)
+### Online-Übungen
+- [Apps](../../ressourcen/apps.md) für interaktives Lernen
+- [Grammatik-Übungen](../../uebungen/grammatik/a1.md) speziell für A1
+- [Podcasts](../../ressourcen/podcasts.md) für Hörverstehen
 
-## Nächste Schritte
-
-- [A1 Grammatik vertiefen](grammatik.md)
-- [A1 Wortschatz erweitern](wortschatz.md)
-- [Mehr Übungen](../../uebungen/grammatik/a1.md)
-- [Zu A2 übergehen](../../a2/ueberblick.md)
+### Tipps für erfolgreiches Üben
+1. **Regelmäßigkeit**: Täglich 20-30 Minuten üben
+2. **Abwechslung**: Verschiedene Übungstypen kombinieren
+3. **Realistische Ziele**: Kleine, erreichbare Ziele setzen
+4. **Fehler machen**: Aus Fehlern lernen
+5. **Spaß haben**: Übungen finden, die Ihnen Freude bereiten
 
 ---
 
-<div align="center">
+## Zusammenfassung
 
-*Jede Übung bringt dich einen Schritt weiter! Du schaffst das!* 🌟
+Diese A1-Übungen decken alle wichtigen Kompetenzbereiche ab. Regelmäßiges Üben mit diesen Aufgaben bereitet Sie optimal auf [A2](../a2/uebungen.md) vor und festigt Ihr Grundwissen in Deutsch.
 
-[📚 Zur A1 Grammatik](grammatik.md){ .md-button .md-button--primary }
-[💪 Weitere Übungen](../../uebungen/grammatik/a1.md){ .md-button }
-
-**Viel Erfolg beim Weiterlernen!** 🚀
-
-</div>
+**Viel Erfolg beim Üben!** 🎯

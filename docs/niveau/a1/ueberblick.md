@@ -1,270 +1,113 @@
-# 🟢 A1 Deutsch - Anfänger Überblick
+# A1 Level - Überblick (Overview)
 
-## Willkommen im A1-Level!
+## Einführung
+A1 ist die erste Stufe des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER). Auf diesem Niveau können Sie einfache, alltägliche Ausdrücke und Sätze verstehen und verwenden.
 
-Herzlich willkommen beim Einstieg in die deutsche Sprache! A1 ist die erste Stufe des Gemeinsamen Europäischen Referenzrahmens (GER) und perfekt für absolute Anfänger.
-
-## Was ist A1?
+## Was Sie auf A1 lernen
 
 ```mermaid
 graph TD
-    A[A1 Niveau] --> B[Elementare Sprachverwendung]
-    A --> C[Einfache Kommunikation]
-    A --> D[Basis-Wortschatz]
+    A[A1 Niveau] --> B[Hörverstehen]
+    A --> C[Leseverstehen]
+    A --> D[Sprechen]
+    A --> E[Schreiben]
     
-    B --> B1[Kann sich vorstellen]
-    B --> B2[Kann einfache Fragen stellen]
-    C --> C1[Versteht langsame Sprache]
-    C --> C2[Kann kurze Sätze schreiben]
-    D --> D1[~650 Wörter]
-    D --> D2[Alltagsthemen]
+    B --> B1[Einfache Ankündigungen<br/>Langsame Gespräche]
+    C --> C1[Kurze Texte<br/>Schilder, Anzeigen]
+    D --> D1[Vorstellen, Fragen<br/>Einfache Dialoge]
+    E --> E1[Formulare ausfüllen<br/>Kurze Notizen]
 ```
 
-**A1 bedeutet, dass du:**
-- Dich und andere vorstellen kannst
-- Einfache Alltagsfragen stellen und beantworten kannst
-- Langsam und deutlich gesprochene Sprache verstehst
-- Kurze, einfache Texte lesen und schreiben kannst
-
-## A1 Lernziele
+## Lernziele A1
 
 ### Kommunikative Kompetenzen
 
-```mermaid
-mindmap
-  root((A1 Kompetenzen))
-    Sprechen
-      Sich vorstellen
-      Einfache Fragen stellen
-      Kurze Antworten geben
-    Hören
-      Zahlen verstehen
-      Einfache Anweisungen
-      Langsame Gespräche
-    Lesen
-      Kurze Texte
-      Schilder & Hinweise
-      Einfache Formulare
-    Schreiben
-      Persönliche Daten
-      Kurze Notizen
-      Einfache Sätze
-```
+| Bereich | Was Sie können | Beispiele |
+|---------|----------------|-----------|
+| 🗣️ **Sprechen** | Einfache Fragen stellen und beantworten | "Wie heißt du?", "Woher kommst du?" |
+| 👂 **Hören** | Langsame, klare Sprache verstehen | Zahlen, Preise, einfache Anweisungen |
+| 📖 **Lesen** | Kurze, einfache Texte verstehen | Schilder, Formulare, kurze Notizen |
+| ✍️ **Schreiben** | Einfache Formulare ausfüllen | Namen, Adressen, Nationalität |
 
-### Grammatik-Schwerpunkte
+### Themenbereiche
 
-| Thema | Was du lernst | Beispiel |
-|-------|---------------|----------|
-| **Artikel** | der, die, das | **der** Mann, **die** Frau, **das** Kind |
-| **Plural** | Einfache Pluralformen | der Tisch → die Tisch**e** |
-| **Verben** | Präsens, haben/sein | ich lern**e**, du bist |
-| **Pronomen** | ich, du, er, sie, es | **Ich** bin Maria |
-| **Fragen** | W-Fragen | **Wo** wohnst du? |
-| **Negation** | nicht, kein | Ich habe **kein** Auto |
+| Thema | Inhalt |
+|-------|--------|
+| 👤 **Persönliche Informationen** | Name, Alter, Herkunft, Beruf |
+| 🏠 **Alltag** | Familie, Wohnen, tägliche Routine |
+| 🍽️ **Essen & Trinken** | Lebensmittel, im Restaurant bestellen |
+| 🛒 **Einkaufen** | Preise, Mengen, einfache Einkäufe |
+| 🗓️ **Zeit & Datum** | Tage, Monate, Uhrzeit, Termine |
 
-## A1 Themenbereiche
+## A1 Prüfungsformen
 
-### Wortschatz-Themen
+### Typische Prüfungsteile
+
+| Prüfungsteil | Dauer | Inhalt |
+|--------------|-------|--------|
+| Hörverstehen | 20-25 Min. | Kurze Dialoge, Ansagen |
+| Leseverstehen | 25-30 Min. | Schilder, Formulare, kurze Texte |
+| Schreiben | 20-25 Min. | Formular ausfüllen, kurzer Text |
+| Sprechen | 15-20 Min. | Vorstellen, Fragen beantworten |
+
+## Lernempfehlungen für A1
+
+### Tägliches Lernen
 
 ```mermaid
-graph LR
-    A[A1 Wortschatz] --> B[Persönliches]
-    A --> C[Alltag]
-    A --> D[Umgebung]
-    
-    B --> B1[Name, Alter, Land]
-    B --> B2[Familie, Beruf]
-    C --> C1[Essen, Zahlen]
-    C --> C2[Zeit, Farben]
-    D --> D1[Stadt, Wohnung]
-    D --> D2[Länder, Sprachen]
+flowchart LR
+    A[Tägliche Routine] --> B[15 Min.<br/>Vokabeln]
+    A --> C[20 Min.<br/>Grammatik]
+    A --> D[15 Min.<br/>Hören]
+    A --> E[10 Min.<br/>Sprechen üben]
 ```
 
-**Wichtige Themen:**
-- 📝 **Persönliche Daten**: Name, Alter, Nationalität, Adresse
-- 👨‍👩‍👧‍👦 **Familie**: Familienmitglieder, Beziehungen
-- 🏠 **Wohnen**: Zimmer, Möbel, Adresse
-- 🍎 **Essen & Trinken**: Lebensmittel, Getränke, Mahlzeiten
-- 🔢 **Zahlen**: 1-100, Preise, Telefonnummern
-- 🕐 **Zeit**: Tage, Monate, Uhrzeit, Datum
-- 🌍 **Länder & Sprachen**: Herkunft, Nationalitäten
+### Nützliche Ressourcen
 
-## Typische A1-Situationen
+- [Apps](../ressourcen/apps.md) für unterwegs lernen
+- [Übungen](../uebungen/grammatik/a1.md) zur Grammatik
+- [Podcasts](../ressourcen/podcasts.md) für Hörverstehen
 
-### Situation 1: Sich vorstellen
-```
-Hallo! Ich heiße Maria.
-Ich komme aus Spanien.
-Ich wohne in Berlin.
-Ich bin Studentin.
-Ich lerne Deutsch.
-```
+## Zeitaufwand für A1
 
-### Situation 2: Im Café
-```
-"Guten Tag!"
-"Ich möchte einen Kaffee, bitte."
-"Wie viel kostet das?"
-"Danke! Auf Wiedersehen!"
-```
+| Lernform | Empfohlene Zeit |
+|----------|-----------------|
+| Selbststudium | 80-100 Stunden |
+| Kurs (Gruppe) | 60-80 Unterrichtsstunden |
+| Intensivkurs | 4-6 Wochen |
 
-### Situation 3: Persönliche Informationen
-```
-Wie heißen Sie?
-Woher kommen Sie?
-Wie alt sind Sie?
-Was sind Sie von Beruf?
-Sprechen Sie Deutsch?
-```
+## Häufige Herausforderungen
 
-## A1 Prüfungen
+### Typische Schwierigkeiten
 
-### Goethe-Zertifikat A1
-
-```mermaid
-graph TD
-    A[Goethe A1] --> B[Hören]
-    A --> C[Lesen]
-    A --> D[Schreiben]
-    A --> E[Sprechen]
-    
-    B --> B1[20 Minuten]
-    C --> C1[25 Minuten]
-    D --> D1[20 Minuten]
-    E --> E1[15 Minuten]
-```
-
-**Prüfungsteile:**
-- **Hören** (20 Min.): Kurze Alltagsgespräche verstehen
-- **Lesen** (25 Min.): Schilder, Notizen, kurze Texte
-- **Schreiben** (20 Min.): Formulare ausfüllen, kurze Notizen
-- **Sprechen** (15 Min.): Sich vorstellen, Fragen beantworten
-
-### Weitere A1 Prüfungen
-- **telc Deutsch A1**
-- **ÖSD Zertifikat A1**
-- **Start Deutsch 1**
-
-## Lernplan für A1
-
-### 12-Wochen-Plan
-
-```mermaid
-gantt
-    title A1 Lernplan (12 Wochen)
-    dateFormat YYYY-MM-DD
-    section Grundlagen
-    Alphabet & Aussprache     :a1, 2024-01-01, 7d
-    Begrüßungen & Vorstellen :a2, after a1, 7d
-    section Grammatik
-    Artikel & Nomen          :a3, after a2, 14d
-    Verben im Präsens        :a4, after a3, 14d
-    section Wortschatz
-    Zahlen & Familie         :a5, after a4, 14d
-    Alltag & Wohnen          :a6, after a5, 14d
-    section Kommunikation
-    Einfache Dialoge         :a7, after a6, 14d
-    Prüfungsvorbereitung     :a8, after a7, 14d
-```
-
-**Wöchentlicher Zeitaufwand:**
-- **Minimum**: 3-4 Stunden pro Woche
-- **Empfohlen**: 5-7 Stunden pro Woche
-- **Intensiv**: 10+ Stunden pro Woche
-
-## Erfolgstipps für A1
-
-### ✅ Was funktioniert gut
-```mermaid
-graph LR
-    A[Erfolgstipps] --> B[Täglich üben]
-    A --> C[Laut sprechen]
-    A --> D[Einfache Medien]
-    A --> E[Fehler machen]
-    
-    B --> B1[15-30 Minuten/Tag]
-    C --> C1[Aussprache trainieren]
-    D --> D1[Kinderbücher, Lieder]
-    E --> E1[Lernprozess]
-```
-
-**Praktische Tipps:**
-- 🎧 **Hören**: Deutsche Kinderlieder, langsame Podcasts
-- 📖 **Lesen**: Kinderbücher, einfache Nachrichten
-- 💬 **Sprechen**: Mit sich selbst sprechen, Sprachapps nutzen
-- 📝 **Schreiben**: Tagebuch auf Deutsch führen
-- 🎯 **Wiederholen**: Täglich Vokabeln wiederholen
-
-## Häufige A1-Fehler
-
-### Typische Anfängerfehler
-- ❌ **Artikel vergessen**: "Ich habe Auto" → "Ich habe **ein** Auto"
-- ❌ **Wortstellung**: "Ich bin gut" → "Mir geht es gut"
-- ❌ **Großschreibung**: "ich heiße" → "**I**ch heiße"
-- ❌ **Aussprache**: "ich" wie "itsch" → richtige Aussprache üben
-
-### Korrektur-Strategien
-- 📚 Immer Artikel mitlernen
-- 🎧 Auf Muttersprachler hören
-- ✍️ Viel schreiben und korrigieren lassen
-- 🗣️ Laut und deutlich sprechen
-
-## A1 Lernressourcen
-
-### Kostenlose Materialien
-- [Goethe Institut A1](https://www.goethe.de/) - Übungen und Tests
-- [Deutsche Welle](https://www.dw.com/) - Nicos Weg A1 Kurs
-- [YouTube](https://youtube.com) - Deutsch lernen Kanäle
-- [Apps](../ressourcen/apps.md) - Duolingo, Memrise
-
-### Empfohlene Bücher
-- "Menschen A1" (Hueber Verlag)
-- "Schritte Plus A1" (Hueber Verlag)
-- "Begegnungen A1" (Schubert Verlag)
+| Bereich | Herausforderung | Lösung |
+|---------|-----------------|--------|
+| 🎵 **Aussprache** | Umlaute (ä, ö, ü) | Mundstellung üben, nachsprechen |
+| 📝 **Artikel** | der, die, das | Mit Nomen lernen, Farben verwenden |
+| 🔄 **Wortstellung** | Verb an 2. Position | Satzbaupläne üben |
 
 ## Vorbereitung auf A2
 
-### Was kommt nach A1?
-- Erweiterter Wortschatz (~1300 Wörter)
-- Einfache Vergangenheitsformen (Perfekt)
-- Dativ und Akkusativ
-- Längere Gespräche führen
-- Einfache Briefe und E-Mails schreiben
+### Was kommt als nächstes?
+Nach A1 können Sie sich auf [A2](../a2/ueberblick.md) vorbereiten, wo Sie lernen:
+- Über Vergangenes sprechen
+- Komplexere Sätze bilden
+- Erweiterte Alltagssituationen meistern
 
-## Übungen für A1
+## Übungsbeispiele
 
 ### Selbsttest: Bin ich bereit für A1?
-- [ ] Ich kann mich auf Deutsch vorstellen
-- [ ] Ich verstehe einfache Fragen zu meiner Person
-- [ ] Ich kann Zahlen von 1-100 sagen und verstehen
-- [ ] Ich kenne die deutschen Artikel (der, die, das)
-- [ ] Ich kann einfache Sätze im Präsens bilden
+Beantworten Sie diese Fragen auf Deutsch:
 
-### Praxis-Übung
-**Stelle dich schriftlich vor:**
-```
-Name: ______
-Alter: ______
-Land: ______
-Stadt: ______
-Beruf: ______
-Hobbys: ______
-```
+1. ❓ Können Sie sich vorstellen? (Name, Herkunft, Alter)
+2. ❓ Können Sie einfache Fragen zu Alltagsthemen stellen?
+3. ❓ Verstehen Sie langsame, klare Ansagen?
+4. ❓ Können Sie ein einfaches Formular ausfüllen?
 
-## Nächste Schritte
-
-- [A1 Grammatik lernen](grammatik.md)
-- [A1 Wortschatz aufbauen](wortschatz.md)
-- [A1 Übungen machen](../uebungen/grammatik/a1.md)
-- [Zu A2 weitergehen](../a2/ueberblick.md)
+Wenn Sie mindestens 3 Fragen mit "Ja" beantworten, sind Sie bereit für A1!
 
 ---
 
-<div align="center">
+## Zusammenfassung
 
-*Du schaffst das! Jede große Reise beginnt mit dem ersten Schritt.* 🚀
-
-[🎯 Jetzt A1 Grammatik lernen](grammatik.md){ .md-button .md-button--primary }
-[📚 Alle A1 Themen anzeigen](../uebungen/grammatik/a1.md){ .md-button }
-
-</div>
+A1 ist der Einstieg ins Deutsche, wo Sie grundlegende Kommunikationsfähigkeiten erlernen. Mit regelmäßigem Üben und den richtigen [Lernstrategien](../../lernstrategien/index.md) meistern Sie dieses Niveau erfolgreich!

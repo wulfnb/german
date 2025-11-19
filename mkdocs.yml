@@ -63,76 +63,305 @@ markdown_extensions:
   - attr_list
 
 nav:
-  - Home: index.md
-  
-  - 🔰 Grundlagen:
-    - Einführung: grundlagen/einfuehrung.md
-    - Alphabet & Aussprache: grundlagen/alphabet.md
-    - Phonetik: grundlagen/phonetik.md
-    - Begrüßungen: grundlagen/begruessungen.md
-    - Vollständige Grundlagen: grundlagen/index.md
-
-  - 🏛️ Grammatik:
-    - Grammatik Übersicht: grammatik/index.md
-    - Wortarten: grammatik/wortarten.md
-    - Verben Grundlagen: grammatik/verben/grundlagen.md
-    - Fälle Übersicht: grammatik/faelle/nominativ.md
-    - Satzbau: grammatik/satzbau/satzarten.md
-    - Pronomen: grammatik/pronomen.md
-    - Präpositionen: grammatik/praepositionen.md
-    - Konjunktionen: grammatik/konjunktionen.md
-
-  - 💬 Wortschatz:
-    - Wortschatz Übersicht: wortschatz/index.md
-    - Basiswortschatz: wortschatz/zahlen.md
-    - Alltagsthemen: wortschatz/familie.md
-    - Spezialwortschatz: wortschatz/technik.md
-    - Kleidung & Wohnen: wortschatz/kleidung.md
-    - Reisen & Gesundheit: wortschatz/reisen.md
-    - Zeit & Wetter: wortschatz/zeit-datum.md
-
-  - 🗣️ Kommunikation:
-    - Kommunikation Übersicht: kommunikation/index.md
-    - Alltagsgespräche: kommunikation/alltagsgespraeche.md
-    - Schriftlich: kommunikation/emails.md
-    - Formell: kommunikation/formelle-briefe.md
-
-  - 🌍 Kultur:
-    - Kultur Übersicht: kultur/index.md
-    - Traditionen & Feste: kultur/traditionen.md
-    - Leben in Deutschland: kultur/leben-in-deutschland.md
-    - Etikette: kultur/etikette.md
-    - Esskultur: kultur/esskultur.md
-    - Regionen: kultur/regionen.md
-    - Geschichte: kultur/geschichte.md
-
-  - 📈 Lernpfad:
-    - Niveau Übersicht: niveau/index.md
-    - A1 Anfänger: niveau/a1/ueberblick.md
-    - A2 Grundlagen: niveau/a2/ueberblick.md
-    - B1 Mittelstufe: niveau/b1/ueberblick.md
-    - B2 Fortgeschritten: niveau/b2/ueberblick.md
-    - C1 Fortgeschritten: niveau/c1/ueberblick.md
-    - C2 Muttersprachlich: niveau/c2/ueberblick.md
-
-  - 🧠 Lernen:
-    - Lernstrategien Übersicht: lernstrategien/index.md
-    - Motivation: lernstrategien/motivation.md
-    - Lerntechniken: lernstrategien/lerntechniken.md
-    - Deutsch im Alltag: lernstrategien/deutsch-im-alltag.md
-
-  - 🏆 Übung & Prüfung:
-    - Übungen Übersicht: uebungen/index.md
+- Home: index.md
+- Grundlagen:
+  - Einführung: grundlagen/einfuehrung.md
+  - Alphabet: grundlagen/alphabet.md
+  - Aussprache: grundlagen/aussprache.md
+  - Begrüßungen: grundlagen/begruessungen.md
+  - Phonetik: grundlagen/phonetik.md
+- Grammatik:
+  - Übersicht: grammatik/index.md
+  - Wortarten: grammatik/wortarten.md
+  - Substantive: grammatik/substantive.md
+  - Artikel: grammatik/artikel.md
+  - Adjektive: grammatik/adjektive.md
+  - Pronomen: grammatik/pronomen.md
+  - Verben:
+    - Grundlagen Übersicht: grundlagen/index.md
     - Prüfungen Übersicht: pruefungen/index.md
-    - Goethe-Zertifikat: pruefungen/goethe.md
-    - TestDaF: pruefungen/testdaf.md
-    - telc Prüfungen: pruefungen/telc.md
-    - DSH Prüfung: pruefungen/dsh.md
-
-  - 📚 Ressourcen:
-    - Ressourcen Übersicht: ressourcen/index.md
-    - Apps & Tools: ressourcen/apps.md
-    - Bücher & Kurse: ressourcen/buecher.md
+    - Grundlagen: grammatik/verben/grundlagen.md
+    - Präsens: grammatik/verben/praesens.md
+    - Präteritum: grammatik/verben/praeteritum.md
+    - Perfekt: grammatik/verben/perfekt.md
+    - Futur: grammatik/verben/futur.md
+    - Modalverben: grammatik/verben/modalverben.md
+    - Trennbare Verben: grammatik/verben/trennbare-verben.md
+  - Fälle:
+    - Übersicht: grammatik/faelle/index.md
+    - Nominativ: grammatik/faelle/nominativ.md
+    - Akkusativ: grammatik/faelle/akkusativ.md
+    - Dativ: grammatik/faelle/dativ.md
+    - Genitiv: grammatik/faelle/genitiv.md
+  - Satzbau:
+    - Übersicht: grammatik/satzbau/index.md
+    - Satzarten: grammatik/satzbau/satzarten.md
+    - Wortstellung: grammatik/satzbau/wortstellung.md
+    - Relativsätze: grammatik/satzbau/relativsaetze.md
+    - Übungen: grammatik/satzbau/satzbau-uebungen.md
+  - Zeiten:
+    - Übersicht: grammatik/zeiten-uebersicht.md
+    - Plusquamperfekt: grammatik/plusquamperfekt.md
+    - Futur II: grammatik/futur-ii.md
+  - Konjunktiv:
+    - Konjunktiv I: grammatik/konjunktiv.md
+    - Konjunktiv II: grammatik/konjunktiv-ii.md
+  - Passiv: grammatik/passiv.md
+  - Partizipien: grammatik/partizipien.md
+  - Indirekte Rede: grammatik/indirekte-rede.md
+  - Präpositionen: grammatik/praepositionen.md
+  - Konjunktionen: grammatik/konjunktionen.md
+  - Adverbien: grammatik/adverbien/index.md
+  - Partikel: grammatik/partikel/index.md
+  - Interjektionen: grammatik/interjektionen/index.md
+  - Übungen: grammatik/grammatik-uebungen.md
+- Wortschatz:
+  - Übersicht: wortschatz/index.md
+  - Zahlen: wortschatz/zahlen.md
+  - Farben: wortschatz/farben.md
+  - Familie: wortschatz/familie.md
+  - Berufe: wortschatz/berufe.md
+  - Essen & Trinken: wortschatz/essen-trinken.md
+  - Kleidung: wortschatz/kleidung.md
+  - Tiere: wortschatz/tiere.md
+  - Wetter: wortschatz/wetter.md
+  - Wohnen: wortschatz/wohnen.md
+  - Zeit & Datum: wortschatz/zeit-datum.md
+  - Bildung: wortschatz/bildung.md
+  - Gesellschaft: wortschatz/gesellschaft.md
+  - Städte & Orte: wortschatz/staedte-orte.md
+  - Verkehr: wortschatz/verkehr.md
+  - Umwelt & Natur: wortschatz/umwelt-natur.md
+  - Gesundheit: wortschatz/gesundheit.md
+  - Reisen: wortschatz/reisen.md
+  - Technik: wortschatz/technik.md
+  - Gesundheit:
+    - Übersicht: wortschatz/gesundheit/index.md
+    - Arztbesuch: wortschatz/gesundheit/arztbesuch.md
+    - Gesundheitssystem: wortschatz/gesundheit/gesundheitssystem.md
+    - Körperteile: wortschatz/gesundheit/koerperteile.md
+    - Krankheiten: wortschatz/gesundheit/krankheiten.md
+  - Reisen:
+    - Übersicht: wortschatz/reisen/index.md
+    - Flughafen: wortschatz/reisen/flughafen.md
+    - Hotel: wortschatz/reisen/hotel.md
+    - Transport: wortschatz/reisen/transport.md
+    - Sehenswürdigkeiten: wortschatz/reisen/sehenswuerdigkeiten.md
+  - Technologie:
+    - Übersicht: wortschatz/technologie/index.md
+    - Computer: wortschatz/technologie/computer.md
+    - Internet: wortschatz/technologie/internet.md
+    - Smartphone: wortschatz/technologie/smartphone.md
+    - Soziale Medien: wortschatz/technologie/soziale-medien.md
+  - Umwelt:
+    - Übersicht: wortschatz/umwelt/index.md
+    - Klima: wortschatz/umwelt/klima.md
+    - Natur: wortschatz/umwelt/natur.md
+    - Tiere & Pflanzen: wortschatz/umwelt/tiere-pflanzen.md
+    - Umweltschutz: wortschatz/umwelt/umweltschutz.md
+- Kommunikation:
+  - Übersicht: kommunikation/index.md
+  - Alltagsgespräche: kommunikation/alltagsgespraeche.md
+  - Smalltalk: kommunikation/smalltalk.md
+  - E-Mails: kommunikation/emails.md
+  - Telefongespräche: kommunikation/telefongespraeche.md
+  - Reden & Präsentieren: kommunikation/reden-und-praesentieren.md
+  - Interviews: kommunikation/interviews.md
+  - Formelle Briefe: kommunikation/formelle-briefe.md
+  - Geschäftliche Kommunikation:
+    - Übersicht: kommunikation/geschaeftliche-kommunikation/index.md
+    - Besprechungen: kommunikation/geschaeftliche-kommunikation/besprechungen.md
+    - Präsentationen: kommunikation/geschaeftliche-kommunikation/praesentationen.md
+    - Verhandlungen: kommunikation/geschaeftliche-kommunikation/verhandlungen.md
+    - Geschäftsessen: kommunikation/geschaeftliche-kommunikation/geschaeftsessen.md
+  - Schriftliche Kommunikation:
+    - Übersicht: kommunikation/schriftliche-kommunikation/index.md
+    - Bewerbung: kommunikation/schriftliche-kommunikation/bewerbung.md
+    - Lebenslauf: kommunikation/schriftliche-kommunikation/lebenslauf.md
+    - Geschäftsbriefe: kommunikation/schriftliche-kommunikation/geschaeftsbriefe.md
+    - Protokolle: kommunikation/schriftliche-kommunikation/protokolle.md
+  - Telefonieren:
+    - Übersicht: kommunikation/telefonieren/index.md
+    - Privat: kommunikation/telefonieren/privat.md
+    - Geschäftlich: kommunikation/telefonieren/geschaeftlich.md
+    - Konferenzgespräche: kommunikation/telefonieren/konferenzgespraeche.md
+- Kultur:
+  - Übersicht: kultur/index.md
+  - Geschichte: kultur/geschichte.md
+  - Traditionen: kultur/traditionen.md
+  - Etikette: kultur/etikette.md
+  - Esskultur: kultur/esskultur.md
+  - Feste & Feiertage: kultur/feste-feiertage.md
+  - Leben in Deutschland: kultur/leben-in-deutschland.md
+  - Regionen: kultur/regionen.md
+  - Deutschsprachige Länder:
+    - Übersicht: kultur/deutschsprachige-laender/index.md
+    - Deutschland: kultur/deutschsprachige-laender/deutschland.md
+    - Österreich: kultur/deutschsprachige-laender/oesterreich.md
+    - Schweiz: kultur/deutschsprachige-laender/schweiz.md
+    - Luxemburg: kultur/deutschsprachige-laender/luxemburg.md
+  - Medien & Unterhaltung:
+    - Übersicht: kultur/medien-unterhaltung/index.md
+    - Filme & Fernsehen: kultur/medien-unterhaltung/filme-fernsehen.md
+    - Musik: kultur/medien-unterhaltung/musik.md
+    - Literatur: kultur/medien-unterhaltung/literatur.md
+    - Nachrichten: kultur/medien-unterhaltung/nachrichten.md
+  - Regionale Varianten:
+    - Übersicht: kultur/regionale-varianten/index.md
+    - Dialekte: kultur/regionale-varianten/dialekte.md
+    - Bairisch: kultur/regionale-varianten/bairisch.md
+    - Schwäbisch: kultur/regionale-varianten/schwaebisch.md
+    - Regionalismen: kultur/regionale-varianten/regionalismen.md
+- Niveau:
+  - Übersicht: niveau/index.md
+  - A1:
+    - Überblick: niveau/a1/ueberblick.md
+    - Grammatik: niveau/a1/grammatik.md
+    - Wortschatz: niveau/a1/wortschatz.md
+    - Übungen: niveau/a1/uebungen.md
+  - A2:
+    - Überblick: niveau/a2/ueberblick.md
+    - Grammatik: niveau/a2/grammatik.md
+    - Wortschatz: niveau/a2/wortschatz.md
+    - Übungen: niveau/a2/uebungen.md
+  - B1:
+    - Überblick: niveau/b1/ueberblick.md
+    - Grammatik: niveau/b1/grammatik.md
+    - Wortschatz: niveau/b1/wortschatz.md
+    - Übungen: niveau/b1/uebungen.md
+  - B2:
+    - Überblick: niveau/b2/ueberblick.md
+    - Grammatik: niveau/b2/grammatik.md
+    - Wortschatz: niveau/b2/wortschatz.md
+    - Übungen: niveau/b2/uebungen.md
+  - C1:
+    - Überblick: niveau/c1/ueberblick.md
+    - Grammatik: niveau/c1/grammatik.md
+    - Wortschatz: niveau/c1/wortschatz.md
+    - Übungen: niveau/c1/uebungen.md
+  - C2:
+    - Überblick: niveau/c2/ueberblick.md
+    - Grammatik: niveau/c2/grammatik.md
+    - Wortschatz: niveau/c2/wortschatz.md
+    - Übungen: niveau/c2/uebungen.md
+- Übungen:
+  - Übersicht: uebungen/index.md
+  - Grammatik:
+    - A1: uebungen/grammatik/a1.md
+    - A2: uebungen/grammatik/a2.md
+    - B1: uebungen/grammatik/b1.md
+    - B2-C1: uebungen/grammatik/b2-c1.md
+    - C1: uebungen/grammatik/c1.md
+    - C2: uebungen/grammatik/c2.md
+  - Hörverstehen:
+    - A1: uebungen/hoerverstehen/a1.md
+    - A2: uebungen/hoerverstehen/a2.md
+    - B1-B2: uebungen/hoerverstehen/b1-b2.md
+    - C1: uebungen/hoerverstehen/c1.md
+    - C2: uebungen/hoerverstehen/c2.md
+  - Leseverstehen:
+    - A1: uebungen/leseverstehen/a1.md
+    - A2: uebungen/leseverstehen/a2.md
+    - B1-B2: uebungen/leseverstehen/b1-b2.md
+    - C1: uebungen/leseverstehen/c1.md
+    - C2: uebungen/leseverstehen/c2.md
+  - Schreiben:
+    - A1: uebungen/schreiben/a1.md
+    - A2: uebungen/schreiben/a2.md
+    - B1: uebungen/schreiben/b1.md
+    - B2: uebungen/schreiben/b2.md
+    - C1: uebungen/schreiben/c1.md
+    - C2: uebungen/schreiben/c2.md
+  - Sprechen:
+    - A1: uebungen/sprechen/a1.md
+    - A2: uebungen/sprechen/a2.md
+    - B1: uebungen/sprechen/b1.md
+    - B2: uebungen/sprechen/b2.md
+    - C1: uebungen/sprechen/c1.md
+    - C2: uebungen/sprechen/c2.md
+  - Wortschatz:
+    - A1: uebungen/wortschatz/a1.md
+    - A2: uebungen/wortschatz/a2.md
+    - B1-B2: uebungen/wortschatz/b1-b2.md
+- Prüfungen:
+  - Überblick: pruefungen/ueberblick.md
+  - Goethe: pruefungen/goethe.md
+  - Telc: pruefungen/telc.md
+  - TestDaF: pruefungen/testdaf.md
+  - DSH: pruefungen/dsh.md
+  - Tipps: pruefungen/tipps.md
+  - Bewertung: pruefungen/bewertung.md
+  - Modelltests: pruefungen/modelltests.md
+  - Vorbereitung:
+    - Studienpläne: pruefungen/vorbereitung/studienplaene.md
+    - Tipps & Strategien: pruefungen/vorbereitung/tipps-strategien.md
+    - Modelltests: pruefungen/vorbereitung/modelltests.md
+    - Bewertung: pruefungen/vorbereitung/bewertung.md
+- Lernstrategien:
+  - Übersicht: lernstrategien/index.md
+  - Fehler vermeiden: lernstrategien/fehler-vermeiden.md
+  - Lerntechniken: lernstrategien/lerntechniken.md
+  - Motivation: lernstrategien/motivation.md
+  - Deutsch im Alltag: lernstrategien/deutsch-im-alltag.md
+  - Lerntechniken:
+    - Übersicht: lernstrategien/lerntechniken/index.md
+    - Vokabellernen: lernstrategien/lerntechniken/vokabellernen.md
+    - Grammatiktraining: lernstrategien/lerntechniken/grammatiktraining.md
+    - Hörverstehen: lernstrategien/lerntechniken/hoerverstehen.md
+    - Sprechübungen: lernstrategien/lerntechniken/sprechuebungen.md
+  - Fehler vermeiden:
+    - Übersicht: lernstrategien/fehler-vermeiden/index.md
+    - Grammatik: lernstrategien/fehler-vermeiden/grammatik.md
+    - Aussprache: lernstrategien/fehler-vermeiden/aussprache.md
+    - Wortschatz: lernstrategien/fehler-vermeiden/wortschatz.md
+  - Immersion:
+    - Übersicht: lernstrategien/immersion/index.md
+    - Medien: lernstrategien/immersion/medien.md
+    - Sprachaustausch: lernstrategien/immersion/sprachaustausch.md
+    - Tägliche Übung: lernstrategien/immersion/taegliche-uebung.md
+  - Motivation:
+    - Übersicht: lernstrategien/motivation/index.md
+    - Ziele setzen: lernstrategien/motivation/ziele-setzen.md
+    - Motivation behalten: lernstrategien/motivation/motivation-behalten.md
+    - Fortschritt tracking: lernstrategien/motivation/fortschritt-tracking.md
+- Ressourcen:
+  - Übersicht: ressourcen/index.md
+  - Apps: ressourcen/apps.md
+  - Bücher: ressourcen/buecher.md
+  - Online-Kurse: ressourcen/online-kurse.md
+  - Podcasts: ressourcen/podcasts.md
+  - Videos & Filme: ressourcen/videos-filme.md
+  - Lernpläne: ressourcen/lernplaene.md
+  - Grammatik-Tafeln: ressourcen/grammatik-tafeln.md
+  - Online-Kurse:
+    - Übersicht: ressourcen/online-kurse/index.md
+    - Kostenlose Kurse: ressourcen/online-kurse/kostenlose-kurse.md
+    - Bezahlte Kurse: ressourcen/online-kurse/bezahlte-kurse.md
+    - Universitätskurse: ressourcen/online-kurse/universitaetskurse.md
+  - Apps & Tools:
+    - Übersicht: ressourcen/apps-tools/index.md
+    - Sprach-Apps: ressourcen/apps-tools/sprachapps.md
+    - Wörterbücher: ressourcen/apps-tools/woerterbuecher.md
+    - Grammatikprüfer: ressourcen/apps-tools/grammatikpruefer.md
+    - Aussprache-Tools: ressourcen/apps-tools/aussprache-tools.md
+  - Bücher & Materialien:
+    - Übersicht: ressourcen/buecher-materialien/index.md
+    - Lehrbücher: ressourcen/buecher-materialien/lehrbuecher.md
+    - Grammatikbücher: ressourcen/buecher-materialien/grammatikbuecher.md
+    - Lektüren: ressourcen/buecher-materialien/lektueren.md
+    - Vokabeltrainer: ressourcen/buecher-materialien/vokabeltrainer.md
+  - Medien:
+    - Übersicht: ressourcen/medien/index.md
+    - Filme & Serien: ressourcen/medien/filme-serien.md
+    - Musik: ressourcen/medien/musik.md
+    - Podcasts: ressourcen/medien/podcasts.md
+    - YouTube-Kanäle: ressourcen/medien/youtube-kanaele.md
+  - Communities:
+    - Übersicht: ressourcen/communities/index.md
+    - Foren: ressourcen/communities/foren.md
+    - Soziale Medien: ressourcen/communities/soziale-medien.md
+    - Sprachaustausch: ressourcen/communities/sprachaustausch.md
+    - Lokale Gruppen: ressourcen/communities/lokale-gruppen.md
 
 extra:
   social:
